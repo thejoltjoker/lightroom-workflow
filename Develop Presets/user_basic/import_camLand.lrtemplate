@@ -1,0 +1,23 @@
+s = {
+	id = "80BEA437-8B3A-45A1-BAF2-D3360DB362FD",
+	internalName = "cameraLandscape_importPreset",
+	title = "import_camLand",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Landscape",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+			WhiteBalance = "As Shot",
+		},
+		uuid = "65DEB8DD-0191-4145-83D5-9A200CA3A0F7",
+	},
+	version = 0,
+}
