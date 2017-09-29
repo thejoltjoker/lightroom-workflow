@@ -1,4 +1,4 @@
-# lightroom-presets
+# Lightroom Presets
 ## Introduction
 Hi friend! 👋
 
