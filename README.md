@@ -25,3 +25,11 @@ Presets related to my HDR photography workflow.
 These are my favorite! They're what makes my photos look a certain way.
 They're named based on what was in the photo when I created the preset.
 So they remind me of different places as well which is always fun!
+
+
+## Export Presets
+I will try and gather some common file export presets I use for various exports.
+
+
+## Filename Templates
+Here I will have my file naming templates.

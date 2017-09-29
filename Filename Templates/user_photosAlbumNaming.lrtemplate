@@ -1,0 +1,32 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "date_YYMMDD",
+			},
+			"_",
+			{
+				value = "com.adobe.title",
+			},
+			"_",
+			{
+				value = "date_Hour",
+			},
+			{
+				value = "date_Minute",
+			},
+			{
+				value = "date_Second",
+			},
+			name = "photosAlbumNaming",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "F3A443AA-F2A2-420F-8F18-40A66743AD20",
+	internalName = "photosAlbumNaming",
+	title = "photosAlbumNaming",
+	type = "Naming_Tokens",
+	version = 0,
+}
