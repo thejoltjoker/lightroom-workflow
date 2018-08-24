@@ -1,0 +1,22 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "custom_token",
+			},
+			".",
+			{
+				value = "naming_sequenceNumber_5Digits",
+			},
+			name = "customText.[#####]",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "FFFDDDA2-E7A8-476F-99AB-01B53762D47F",
+	internalName = "customText.[#####]",
+	title = "customText.[#####]",
+	type = "Naming_Tokens",
+	version = 0,
+}
