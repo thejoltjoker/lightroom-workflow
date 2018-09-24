@@ -8,6 +8,9 @@ Feel free to use them however you want. Some of them are great, others not so gr
 
 Whatever you end up using them for I hope it will aid in your workflow! 🎉
 
+I was using the old Lightroom Classic until recently so the .lrtemplate presets are in the legacy folder.
+The new Develop Presets are in the Settings folder.
+
 ## Develop Presets
 A little explanation of the different classifications I've come up with, might be handy.
 
