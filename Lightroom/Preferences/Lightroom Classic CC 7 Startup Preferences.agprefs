@@ -1,0 +1,13 @@
+prefs = {
+	libraryToLoad20 = "/Volumes/mcdrive/pictures/lightroom/work/2017/lightroom_2017_003/lightroom_2017_003.lrcat",
+	recentLibraries20 = "recentLibraries = {\
+	\"/Volumes/mcdrive/pictures/lightroom/work/2017/lightroom_2017_003/lightroom_2017_003.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/work/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
+	\"/Users/johannes/Pictures/Lightroom/Lightroom Catalog.lrcat\",\
+}\
+",
+	recentLibraries20_missing = "recentMissingLibraries = {\
+}\
+",
+	recentLibraryBehavior20 = "UseMostRecentLibrary",
+}

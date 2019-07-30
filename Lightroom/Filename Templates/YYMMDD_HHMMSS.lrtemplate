@@ -1,0 +1,28 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "date_YYMMDD",
+			},
+			"_",
+			{
+				value = "date_Hour",
+			},
+			{
+				value = "date_Minute",
+			},
+			{
+				value = "date_Second",
+			},
+			name = "YYMMDD_HHMMSS",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "68B1BDBA-3E2A-4FEC-85C3-7C186A953115",
+	internalName = "YYMMDD_HHMMSS",
+	title = "YYMMDD_HHMMSS",
+	type = "Naming_Tokens",
+	version = 0,
+}

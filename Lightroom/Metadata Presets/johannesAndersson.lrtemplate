@@ -1,0 +1,16 @@
+s = {
+	id = "67DCDA93-A95E-462A-892B-099B85F4414F",
+	internalName = "johannesAndersson",
+	title = "johannesAndersson",
+	type = "Metadata",
+	value = {
+		["com.adobe.copyright"] = "Johannes Andersson",
+		["com.adobe.copyrightInfoURL"] = "http://thejoltjoker.com",
+		["com.adobe.copyrightState"] = true,
+		["com.adobe.creator"] = "Johannes Andersson",
+		["com.adobe.creatorWorkEmail"] = "hello@thejoltjoker.com",
+		["com.adobe.creatorWorkWebsite"] = "http://thejoltjoker.com",
+		uuid = "14707DF5-85E7-4DA0-AEB7-AA2893301ADF",
+	},
+	version = 0,
+}

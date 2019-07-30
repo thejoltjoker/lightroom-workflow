@@ -1,0 +1,22 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "date_YYYYMMDD",
+			},
+			"_7D",
+			{
+				value = "image_name",
+			},
+			name = "YYYYMMDD_7DFilename",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "5060238E-88C8-4B65-AFED-E36E4739F782",
+	internalName = "YYYYMMDD_7DFilename",
+	title = "YYYYMMDD_7DFilename",
+	type = "Naming_Tokens",
+	version = 0,
+}

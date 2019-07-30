@@ -1,0 +1,22 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "image_filename_number_suffix",
+			},
+			"_",
+			{
+				value = "com.adobe.title",
+			},
+			name = "numberSuffix_title",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "A1359711-8D36-4014-AA2A-2B298C890B20",
+	internalName = "numberSuffix_title",
+	title = "numberSuffix_title",
+	type = "Naming_Tokens",
+	version = 0,
+}

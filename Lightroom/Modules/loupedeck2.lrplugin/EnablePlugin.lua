@@ -1,0 +1,2 @@
+require 'Globals'
+trace('EnablePlugin')
