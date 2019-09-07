@@ -1,0 +1,4 @@
+AddUTCTimestampToTraces	false	false
+CreateLogFilesThatDoNotExist	false	false
+DvaMarshalRPCLogging	false	false
+LogTimeInTicks	true	true
