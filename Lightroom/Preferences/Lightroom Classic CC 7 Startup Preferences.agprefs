@@ -1,13 +1,27 @@
 prefs = {
-	libraryToLoad20 = "/Volumes/mcdrive/pictures/lightroom/work/2017/lightroom_2017_003/lightroom_2017_003.lrcat",
+	libraryToLoad20 = "/Volumes/mcdaddy/pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat",
 	recentLibraries20 = "recentLibraries = {\
-	\"/Volumes/mcdrive/pictures/lightroom/work/2017/lightroom_2017_003/lightroom_2017_003.lrcat\",\
-	\"/Volumes/mcdrive/pictures/lightroom/work/2016/lightroom_2016_002/lightroom_2016_002.lrcat\",\
-	\"/Volumes/mcdaddy/pictures/lightroom/work/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
-	\"/Users/johannes/Pictures/Lightroom/Lightroom Catalog.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/work/rbillume_2019_v001/rbillume_2019_v001.lrcat\",\
 }\
 ",
 	recentLibraries20_missing = "recentMissingLibraries = {\
+	\"E:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2018\\\\lightroom_classic_2018_001\\\\lightroom_classic_2018_001.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2019/2019.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/work/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2018/2018.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2016/2016.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2017/2017.lrcat\",\
+	\"/Volumes/mcdrive/pictures/lightroom/work/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
+	\"/Volumes/mcdrive/pictures/lightroom/work/2016/lightroom_2016_002/lightroom_2016_002.lrcat\",\
+	\"/Volumes/mcdrive/pictures/lightroom/work/2017/lightroom_2017_003/lightroom_2017_003.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/work/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
+	\"/Users/johannes/Pictures/Lightroom/Lightroom Catalog.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/work/rbillume_2019_v001/rbillume_2019_v001.lrcat\",\
 }\
 ",
 	recentLibraryBehavior20 = "UseMostRecentLibrary",
