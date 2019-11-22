@@ -171,7 +171,6 @@ prefs = {
 	AgDevelop_spotType = "heal",
 	AgDevelop_target = "activePhoto",
 	AgDevelop_targetAdjustment = "Exposure2012",
-	AgDevelop_targetPanelContent = false,
 	AgDevelop_targetToolSampleSize = "point",
 	AgDevelop_toneCurve_ShowInfo = true,
 	AgDevelop_tonePanel_Collapsed = true,
@@ -217,6 +216,7 @@ prefs = {
 	AgExport_jpeg_useLimitSize = false,
 	AgExport_metadata_keywordOptions = "flat",
 	AgExport_minimizeEmbeddedMetadata = false,
+	AgExport_missingOriginals_doNotShow = "yes",
 	AgExport_outputSharpeningLevel = 2,
 	AgExport_outputSharpeningMedia = "screen",
 	AgExport_outputSharpeningOn = false,
@@ -274,6 +274,8 @@ prefs = {
 	AgImport_tokenShootName = "",
 	AgImport_tokens = "{{date_YYYYMMDD}}-{{image_name}}",
 	AgLibraryDocument_lastSelectedModule = "com.adobe.ag.library",
+	["AgLibrary_BackupPathToFolder5FD9AA9B-C1BD-4FAB-9665-FCAE6FCA696C"] = "E:\\Dropbox\\Pictures\\lightroom\\catalogs\\2018\\lightroom_classic_2018_001\\Backups",
+	AgLibrary_BuildProxiesResults = "ok",
 	AgLibrary_QuerierHeight = 200,
 	AgLibrary_QuickDev_color_ExpansionState = 0,
 	AgLibrary_QuickDev_exposure_ExpansionState = 0,
@@ -361,7 +363,7 @@ prefs = {
 	AgLibrary_keywords_shortcut7title = "jordan",
 	AgLibrary_keywords_shortcut8title = "telefon",
 	AgLibrary_keywords_shortcut9title = "phone",
-	["AgLibrary_lastBackupDate5FD9AA9B-C1BD-4FAB-9665-FCAE6FCA696C"] = 586995953.08959,
+	["AgLibrary_lastBackupDate5FD9AA9B-C1BD-4FAB-9665-FCAE6FCA696C"] = 592219511.94071,
 	AgLibrary_leftPanels_inSoloMode = false,
 	AgLibrary_libraryPanel_Collapsed = false,
 	AgLibrary_link2up = true,
@@ -442,14 +444,16 @@ prefs = {
 	AgLocation_rightPanels_inSoloMode = false,
 	AgMainFramePlacement_maxPosition_x = -1,
 	AgMainFramePlacement_maxPosition_y = -1,
-	AgMainFramePlacement_minPosition_x = -1,
-	AgMainFramePlacement_minPosition_y = -1,
+	AgMainFramePlacement_minPosition_x = -32000,
+	AgMainFramePlacement_minPosition_y = -32000,
 	AgMainFramePlacement_normalPosition_bottom = 1142,
 	AgMainFramePlacement_normalPosition_left = 30,
 	AgMainFramePlacement_normalPosition_right = 1890,
 	AgMainFramePlacement_normalPosition_top = 30,
 	AgMainFramePlacement_showCmd = 3,
 	AgMainFrame_screenMode = 0,
+	AgManyErrorsDialog_frame = AgRect( 590, 430, 1330, 747 ),
+	AgManyErrorsDialog_frame_showCmd = 1,
 	AgMultiMonitor_autoResize = false,
 	AgMultiMonitor_blankBackgroundColor = 0,
 	AgMultiMonitor_browserHeight = 170,
@@ -476,7 +480,7 @@ prefs = {
 	AgPanel_defaultSoloMode = false,
 	AgPrint_leftPanels_inSoloMode = false,
 	AgPrint_rightPanels_inSoloMode = false,
-	AgProgressView_visible = false,
+	AgProgressView_visible = true,
 	AgPublish_DNG_compatibility = 184680448,
 	AgPublish_DNG_compressed = true,
 	AgPublish_DNG_conversionMethod = "preserveRAW",
@@ -628,7 +632,7 @@ prefs = {
 	defringeColorLoupeSize = 5,
 	defringeColorShowLoupe = true,
 	defringeColorToolSticky = true,
-	doNotShowPrompts = "exitDialog,",
+	doNotShowPrompts = "AgExport_missingOriginals_doNotShow,AgLibrary_BuildProxiesResults,exitDialog,",
 	enablePresetPreviewsInLoupe = true,
 	exitDialog = "exit",
 	externalEditingFormat = "TIFF_LZW_8_sRGB",
@@ -646,13 +650,19 @@ prefs = {
 	onePixelFudge = true,
 	photoBinSize = 150,
 	photoshopEditingFormat = "TIFF_ZIP_16_ProPhotoRGB",
+	["publish.com.adobe.ag.export.file.2028549.expanded"] = true,
 	recentLibraries20 = "recentLibraries = {\
 	\"E:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2018\\\\lightroom_classic_2018_001\\\\lightroom_classic_2018_001.lrcat\",\
 }\
 ",
 	recentLibraries20_missing = "recentMissingLibraries = {\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
 	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2012/lightroom_classic_2012_004/lightroom_classic_2012_004.lrcat\",\
 	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/work/rbillume_2019_v001/rbillume_2019_v001.lrcat\",\
+	\"/Volumes/mcdrive/pictures/lightroom/catalogs/2012/lightroom_classic_2012_004/lightroom_classic_2012_004.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
 	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2019/2019.lrcat\",\
 	\"/Users/johannes/Dropbox/Pictures/lightroom/work/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
 	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2018/2018.lrcat\",\
@@ -660,9 +670,7 @@ prefs = {
 	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2017/2017.lrcat\",\
 	\"/Volumes/mcdrive/pictures/lightroom/work/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
 	\"/Volumes/mcdrive/pictures/lightroom/work/2016/lightroom_2016_002/lightroom_2016_002.lrcat\",\
-	\"/Volumes/mcdrive/pictures/lightroom/work/2017/lightroom_2017_003/lightroom_2017_003.lrcat\",\
-	\"/Volumes/mcdaddy/pictures/lightroom/work/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
-	\"/Users/johannes/Pictures/Lightroom/Lightroom Catalog.lrcat\",\
+	\"E:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2018\\\\lightroom_classic_2018_001\\\\lightroom_classic_2018_001.lrcat\",\
 }\
 ",
 	recentLibraryBehavior20 = "UseMostRecentLibrary",
@@ -677,40 +685,40 @@ prefs = {
 ",
 	["sdk_com.adobe.lightroom.export.facebook"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1565300272,\
+		localOSTime = 1570518407,\
 		locale = \"en_us\",\
 		plugin_version = \"8.3.1.201905241238-dcd7e2de\",\
 		status = \"ok\",\
-		timestamp = \"2019-08-08T21:37:25+00:00\",\
+		timestamp = \"2019-10-08T07:06:38+00:00\",\
 	},\
 }\
 ",
 	["sdk_com.adobe.lightroom.export.flickr"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1565300276,\
+		localOSTime = 1570518407,\
 		locale = \"en_us\",\
 		plugin_version = \"8.3.1.201905241238-dcd7e2de\",\
 		status = \"ok\",\
-		timestamp = \"2019-08-08T21:37:54+00:00\",\
+		timestamp = \"2019-10-08T07:06:46+00:00\",\
 	},\
 }\
 ",
 	["sdk_com.adobe.lightroom.export.stock"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1565300277,\
+		localOSTime = 1570518420,\
 		locale = \"en_us\",\
 		plugin_version = \"8.3.1.201905241238-dcd7e2de\",\
 		status = \"ok\",\
-		timestamp = \"2019-08-08T21:37:55+00:00\",\
+		timestamp = \"2019-10-08T07:06:47+00:00\",\
 	},\
 }\
 ",
 	["sdk_com.adobe.lightroom.google-map"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1565300280,\
+		localOSTime = 1570518423,\
 		locale = \"en_us\",\
 		status = \"ok\",\
-		timestamp = \"2019-08-08T21:37:59+00:00\",\
+		timestamp = \"2019-10-08T07:07:02+00:00\",\
 	},\
 }\
 ",
@@ -721,10 +729,13 @@ prefs = {
 ",
 	sdk_lrupdate = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1564514292,\
+		link = \"8.4\",\
+		localOSTime = 1570518423,\
 		locale = \"en_us\",\
-		status = \"ok\",\
-		timestamp = \"2019-07-30T19:18:14+00:00\",\
+		message_body = \"The update provides bug fixes and support for newly released cameras and lenses. Update to the latest version by selecting Help > Updates.\",\
+		message_title = \"New update available for Lightroom Classic\",\
+		status = \"info\",\
+		timestamp = \"2019-08-12T09:16:41Z\",\
 	},\
 }\
 ",

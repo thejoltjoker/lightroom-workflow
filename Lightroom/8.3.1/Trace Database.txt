@@ -1,3 +1,5 @@
+ClipArchiveEntry	1	5
 DynamicLink	1	5
 MediaCoreIF	1	5
 dynamiclink	1	5
+processcoordination	1	5
