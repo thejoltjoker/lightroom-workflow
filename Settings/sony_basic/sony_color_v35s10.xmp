@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="8E3AA8C2427044BAA25453923523115A"
+   crs:UUID="AAC03985F38C46DEA6EF4C3E8740484B"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -17,22 +17,12 @@
    crs:ContactInfo=""
    crs:Version="12.0"
    crs:ProcessVersion="11.0"
-   crs:VignetteAmount="0"
-   crs:LensProfileEnable="1"
-   crs:LensManualDistortionAmount="0"
-   crs:AutoLateralCA="1"
-   crs:DefringePurpleAmount="0"
-   crs:DefringePurpleHueLo="30"
-   crs:DefringePurpleHueHi="70"
-   crs:DefringeGreenAmount="0"
-   crs:DefringeGreenHueLo="40"
-   crs:DefringeGreenHueHi="60"
-   crs:LensProfileSetup="Auto"
-   crs:HasSettings="True"
-   crs:CropConstrainToWarp="0">
+   crs:Saturation="+10"
+   crs:Vibrance="+35"
+   crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">sony_lensCorrection</rdf:li>
+     <rdf:li xml:lang="x-default">sony_color_v35s10</rdf:li>
     </rdf:Alt>
    </crs:Name>
    <crs:ShortName>

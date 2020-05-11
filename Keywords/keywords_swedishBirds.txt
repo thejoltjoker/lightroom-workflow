@@ -1,0 +1,1099 @@
+fåglar
+	{fågel}
+	{birds}
+	{bird}
+	{animal}
+	{dinosaur}
+	{theropod}
+	{birdwatching}
+	{fågelskådning}
+	änder 
+		{anatidae}
+		prutgås
+			{branta bernicla}
+			{brant (goose)}
+		rödhalsad gås
+			{branta ruficollis}
+			{red-breasted goose}
+		kanadagås
+			{branta canadensis}
+			{canada goose}
+		vitkindad gås
+			{branta leucopsis}
+			{barnacle goose}
+		grågås
+			{anser anser}
+			{greylag goose}
+		sädgås
+			{anser fabalis}
+			{taiga bean goose}
+		spetsbergsgås
+			{anser brachyrhynchus}
+			{pink-footed goose}
+		bläsgås
+			{anser albifrons}
+			{greater white-fronted goose}
+		fjällgås
+			{anser erythropus}
+			{lesser white-fronted goose}
+		knölsvan
+			{cygnus olor}
+			{mute swan}
+		mindre sångsvan
+			{cygnus columbianus}
+			{tundra swan}
+		sångsvan
+			{cygnus cygnus}
+			{whooper swan}
+		nilgås
+			{alopochen aegyptiaca}
+			{egyptian goose}
+		gravand
+			{tadorna tadorna}
+			{common shelduck}
+		rostand
+			{tadorna ferruginea}
+			{ruddy shelduck}
+		årta
+			{anas querquedula}
+			{garganey}
+		skedand
+			{anas clypeata}
+			{northern shoveler}
+		snatterand
+			{anas strepera}
+			{gadwall}
+		bläsand
+			{anas penelope}
+			{eurasian wigeon}
+		gräsand
+			{anas platyrhynchos}
+			{mallard}
+		stjärtand
+			{anas acuta}
+			{northern pintail}
+		kricka
+			{anas crecca}
+			{eurasian teal}
+		amerikansk kricka
+			{anas carolinensis}
+			{green-winged teal}
+		rödhuvad dykand
+			{netta rufina}
+			{red-crested pochard}
+		brunand
+			{aythya ferina}
+			{common pochard}
+		vigg
+			{aythya fuligula}
+			{tufted duck}
+		bergand
+			{aythya marila}
+			{greater scaup}
+		alförrädare
+			{polysticta stelleri}
+			{steller's eider}
+		praktejder
+			{somateria spectabilis}
+			{king eider}
+		ejder
+			{somateria mollissima}
+			{common eider}
+		svärta
+			{melanitta fusca}
+			{velvet scoter}
+		sjöorre
+			{melanitta nigra}
+			{common scoter}
+		alfågel
+			{clangula hyemalis}
+			{long-tailed duck}
+		knipa
+			{bucephala clangula}
+			{common goldeneye}
+		salskrake
+			{mergus albellus}
+			{smew}
+		småskrake
+			{mergellus serrator}
+			{red-breasted merganser}
+		storskrake
+			{mergus merganser}
+			{common merganser}
+	fasanfåglar 
+		{phasianidae}
+		järpe
+			{tetrastes bonasia}
+			{hazel grouse}
+		dalripa
+			{lagopus lagopus}
+			{willow ptarmigan}
+		fjällripa
+			{lagopus muta}
+			{rock ptarmigan}
+		orre
+			{lyrurus tetrix}
+			{black grouse}
+		tjäder
+			{tetrao urogallus}
+			{western capercaillie}
+		rapphöna
+			{perdix perdix}
+			{grey partridge}
+		vaktel
+			{coturnix coturnix}
+			{common quail}
+		fasan
+			{phasianus colchicus}
+			{common pheasant}
+	lommar 
+		{gaviidae}
+		{loon}
+		smålom
+			{gavia stellata}
+			{red-throated loon}
+		storlom
+			{gavia arctica}
+			{black-throated loon}
+		svartnäbbad islom
+			{gavia immer}
+			{common loon}
+		vitnäbbad islom
+			{gavia adamsii}
+			{yellow-billed loon}
+	nordstormsvalor 
+		{hydrobatidae}
+		{northern storm petrel}
+		klykstjärtad stormsvala
+			{oceanodroma leucorhoa}
+			{leach's storm petrel}
+	liror 
+		{procellariidae}
+		stormfågel
+			{fulmarus glacialis}
+			{northern fulmar}
+		grålira
+			{ardenna grisea}
+			{sooty shearwater}
+		mindre lira
+			{puffinus puffinus}
+			{manx shearwater}
+	doppingar 
+		{podicipedidae}
+		{grebe}
+		smådopping
+			{tachybaptus ruficollis}
+			{little grebe}
+		skäggdopping
+			{podiceps cristatus}
+			{great crested grebe}
+		gråhakedopping
+			{podiceps grisegena}
+			{red-necked grebe}
+		svarthakedopping
+			{podiceps auritus}
+			{horned grebe}
+		svarthalsad dopping
+			{podiceps nigricollis}
+			{black-necked grebe}
+	storkar 
+		{ciconiidae}
+		{stork}
+		svart stork
+			{ciconia nigra}
+			{black stork}
+		vit stork
+			{ciconia ciconia}
+			{white stork}
+	hägrar 
+		{ardeidae}
+		{heron}
+		rördrom
+			{botaurus stellaris}
+			{eurasian bittern}
+		gråhäger
+			{ardea cinerea}
+			{grey heron}
+		ägretthäger
+			{ardea alba}
+			{great egret}
+	sulor 
+		{sulidae}
+		havssula
+			{morus bassanus}
+			{northern gannet}
+	skarvar 
+		{phalacrocoracidae}
+		{cormorant}
+		toppskarv
+			{phalacrocorax aristotelis}
+			{european shag}
+		storskarv
+			{phalacrocorax carbo}
+			{great cormorant}
+	fiskgjusar 
+		{pandionidae}
+		{osprey}
+		fiskgjuse
+			{pandion haliaetus}
+			{osprey}
+	hökartade rovfåglar 
+		{accipitridae}
+		bivråk
+			{pernis apivorus}
+			{european honey buzzard}
+		mindre skrikörn
+			{clanga pomarina}
+			{lesser spotted eagle}
+		större skrikörn
+			{clanga clanga}
+			{greater spotted eagle}
+		kungsörn
+			{aquila chrysaetos}
+			{golden eagle}
+		sparvhök
+			{accipiter nisus}
+			{eurasian sparrowhawk}
+		duvhök
+			{accipiter gentilis}
+			{northern goshawk}
+		brun kärrhök
+			{circus aeruginosus}
+			{western marsh harrier}
+		blå kärrhök
+			{circus cyaneus}
+			{hen harrier}
+		stäpphök
+			{circus macrourus}
+			{pallid harrier}
+		ängshök
+			{circus pygargus}
+			{montagu's harrier}
+		röd glada
+			{milvus milvus}
+			{red kite}
+		brun glada
+			{milvus migrans}
+			{black kite}
+		havsörn
+			{haliaeetus albicilla}
+			{white-tailed eagle}
+		fjällvråk
+			{buteo lagopus}
+			{rough-legged buzzard}
+		ormvråk
+			{buteo buteo}
+			{common buzzard}
+	rallar 
+		{rallidae}
+		{rail (bird)}
+		vattenrall
+			{rallus aquaticus}
+			{water rail}
+		kornknarr
+			{crex crex}
+			{corn crake}
+		mindre sumphöna
+			{porzana parva}
+			{little crake}
+		småfläckig sumphöna
+			{porzana porzana}
+			{spotted crake}
+		rörhöna
+			{gallinula chloropus}
+			{common moorhen}
+		sothöna
+			{fulica atra}
+			{eurasian coot}
+	tranor 
+		{gruidae}
+		{crane (bird)}
+		trana
+			{grus grus}
+			{common crane}
+	strandskator 
+		{haematopodidae}
+		strandskata
+			{haematopus ostralegus}
+			{eurasian oystercatcher}
+	skärfläckor 
+		{recurvirostridae}
+		skärfläcka
+			{recurvirostra avosetta}
+			{pied avocet}
+	pipare 
+		{charadriidae}
+		tofsvipa
+			{vanellus vanellus}
+			{northern lapwing}
+		ljungpipare
+			{pluvialis apricaria}
+			{european golden plover}
+		kustpipare
+			{pluvialis squatarola}
+			{grey plover}
+		större strandpipare
+			{charadrius hiaticula}
+			{common ringed plover}
+		mindre strandpipare
+			{charadrius dubius}
+			{little ringed plover}
+		svartbent strandpipare
+			{charadrius alexandrinus}
+			{kentish plover}
+		fjällpipare
+			{charadrius morinellus}
+			{eurasian dotterel}
+	snäppor 
+		{scolopacidae}
+		{sandpiper}
+		småspov
+			{numenius phaeopus}
+			{eurasian whimbrel}
+		storspov
+			{numenius arquata}
+			{eurasian curlew}
+		myrspov
+			{limosa lapponica}
+			{bar-tailed godwit}
+		rödspov
+			{limosa limosa}
+			{black-tailed godwit}
+		roskarl
+			{arenaria interpres}
+			{ruddy turnstone}
+		kustsnäppa
+			{calidris canutus}
+			{red knot}
+		myrsnäppa
+			{calidris falcinellus}
+			{broad-billed sandpiper}
+		brushane
+			{calidris pugnax}
+			{ruff}
+		spovsnäppa
+			{calidris ferruginea}
+			{curlew sandpiper}
+		mosnäppa
+			{calidris temminckii}
+			{temminck's stint}
+		sandlöpare
+			{calidris alba}
+			{sanderling}
+		kärrsnäppa
+			{calidris alba}
+			{dunlin}
+		skärsnäppa
+			{calidris maritima}
+			{purple sandpiper}
+		småsnäppa
+			{calidris minuta}
+			{little stint}
+		tuvsnäppa
+			{calidris melanotos}
+			{pectoral sandpiper}
+		morkulla
+			{scolopax rusticola}
+			{eurasian woodcock}
+		dvärgbeckasin
+			{lymnocryptes minimus}
+			{jack snipe}
+		dubbelbeckasin
+			{gallinago media}
+			{great snipe}
+		enkelbeckasin
+			{gallinago gallinago}
+			{common snipe}
+		tereksnäppa
+			{xenus cinereus}
+			{terek sandpiper}
+		smalnäbbad simsnäppa
+			{phalaropus lobatus}
+			{red-necked phalarope}
+		brednäbbad simsnäppa
+			{phalaropus fulicarius}
+			{red phalarope}
+		drillsnäppa
+			{actitis hypoleucos}
+			{common sandpiper}
+		skogssnäppa
+			{tringa ochropus}
+			{green sandpiper}
+		rödbena
+			{tringa totanus}
+			{common redshank}
+		dammsnäppa
+			{tringa stagnatilis}
+			{marsh sandpiper}
+		grönbena
+			{tringa glareola}
+			{wood sandpiper}
+		svartsnäppa
+			{tringa erythropus}
+			{spotted redshank}
+		gluttsnäppa
+			{tringa nebularia}
+			{common greenshank}
+	måsfåglar 
+		{laridae}
+		tretåig mås
+			{rissa tridactyla}
+			{black-legged kittiwake}
+		tärnmås
+			{xema sabini}
+			{sabine's gull}
+		skrattmås
+			{chroicocephalus ridibundus}
+			{black-headed gull}
+		dvärgmås
+			{hydrocoloeus minutus}
+			{little gull}
+		svarthuvad mås
+			{ichthyaetus melanocephalus}
+			{mediterranean gull}
+		fiskmås
+			{larus canus}
+			{common gull}
+		havstrut
+			{larus marinus}
+			{great black-backed gull}
+		vittrut
+			{larus hyperboreus}
+			{glaucous gull}
+		gråtrut
+			{larus argentatus}
+			{european herring gull}
+		kaspisk trut
+			{larus cachinnans}
+			{caspian gull}
+		medelhavstrut
+			{larus michahellis}
+			{yellow-legged gull}
+		silltrut
+			{larus fuscus}
+			{lesser black-backed gull}
+		skräntärna
+			{hydroprogne caspia}
+			{caspian tern}
+		kentsk tärna
+			{thalasseus sandvicensis}
+			{sandwich tern}
+		småtärna
+			{sternula albifrons}
+			{little tern}
+		fisktärna
+			{sterna hirundo}
+			{common tern}
+		silvertärna
+			{sterna paradisaea}
+			{arctic tern}
+		vitvingad tärna
+			{chlidonias leucopterus}
+			{white-winged tern}
+		svarttärna
+			{chlidonias niger}
+			{black tern}
+	labbar 
+		{stercorariidae}
+		{skua}
+		storlabb
+			{stercorarius skua}
+			{great skua}
+		bredstjärtad labb
+			{stercorarius pomarinus}
+			{pomarine jaeger}
+		kustlabb
+			{stercoraris parasiticus}
+			{parasitic jaeger}
+		fjällabb
+			{stercorarius longicaudus}
+			{long-tailed jaeger}
+	alkor 
+		{alcidae}
+		{auk}
+		alkekung
+			{alle alle}
+			{little auk}
+		sillgrissla
+			{uria aalge}
+			{common murre}
+		tordmule
+			{alca torda}
+			{razorbill}
+		tobisgrissla
+			{cepphus grylle}
+			{black guillemot}
+		lunnefågel
+			{fratercula arctica}
+			{atlantic puffin}
+	duvor 
+		{columbidae}
+		tamduva
+			{columba livia}
+			{domestic pigeon}
+		skogsduva
+			{columba oenas}
+			{stock dove}
+		ringduva
+			{columba palumbus}
+			{common wood pigeon}
+		turturduva
+			{streptopelia turtur}
+			{european turtle dove}
+		turkduva
+			{streptopelia decaocto}
+			{eurasian collared dove}
+	gökar 
+		{cuculidae}
+		{cuckoo}
+		gök
+			{cuculus canorus}
+			{common cuckoo}
+	tornugglor 
+		{tytonidae}
+		{barn-owl}
+		tornuggla
+			{tyto alba}
+			{barn owl}
+	 ugglor 
+		{strigidae}
+		{true owl}
+		fjälluggla
+			{bubo scandiacus}
+			{snowy owl}
+		berguv
+			{bubo bubo}
+			{eurasian eagle-owl}
+		kattuggla
+			{strix aluco}
+			{tawny owl}
+		slaguggla
+			{strix uralensis}
+			{ural owl}
+		lappuggla
+			{strix nebulosa}
+			{great grey owl}
+		hökuggla
+			{surnia ulula}
+			{northern hawk-owl}
+		sparvuggla
+			{glaucidium passerinum}
+			{eurasian pygmy owl}
+		pärluggla
+			{aegolius funereus}
+			{boreal owl}
+		hornuggla
+			{asio otus}
+			{long-eared owl}
+		jorduggla
+			{asio flammeus}
+			{short-eared owl}
+	nattskärror 
+		{caprimulgidae}
+		{nightjar}
+		nattskärra
+			{caprimulgus europaeus}
+			{european nightjar}
+	seglare 
+		{apodidae}
+		{swift}
+		tornseglare
+			{apus apus}
+			{common swift}
+	blåkråka 
+		{coraciidae}
+		{european roller}
+		blåkråka
+			{coracias garrulus}
+			{european roller}
+	kungsfiskare 
+		{alcedinidae}
+		{common kingfisher}
+		kungsfiskare
+			{alcedo atthis}
+			{common kingfisher}
+	biätare 
+		{meropidae}
+		{european bee-eater}
+		biätare
+			{merops apiaster}
+			{european bee-eater}
+	härfåglar 
+		{upupidae}
+		{hoopoe}
+		härfågel
+			{upupa epops}
+			{eurasian hoopoe}
+	hackspettar 
+		{picidae}
+		{woodpecker}
+		göktyta
+			{jynx torquilla}
+			{eurasian wryneck}
+		tretåig hackspett
+			{picoides tridactylus}
+			{eurasian three-toed woodpecker}
+		mindre hackspett
+			{dendrocopos minor}
+			{lesser spotted woodpecker}
+		större hackspett
+			{dendrocopos major}
+			{great spotted woodpecker}
+		vitryggig hackspett
+			{dendrocopos leucotos}
+			{white-backed woodpecker}
+		spillkråka
+			{dryocopus martius}
+			{black woodpecker}
+		gröngöling
+			{picus viridis}
+			{european green woodpecker}
+		gråspett
+			{picus canus}
+			{grey-headed woodpecker}
+	falkar 
+		{falconidae}
+		tornfalk
+			{falco tinnunculus}
+			{common kestrel}
+		aftonfalk
+			{falco vespertinus}
+			{red-footed falcon}
+		stenfalk
+			{falco columbarius}
+			{merlin (bird)}
+		lärkfalk
+			{falco subbuteo}
+			{eurasian hobby}
+		jaktfalk
+			{falco rusticolus}
+			{gyrfalcon}
+		pilgrimsfalk
+			{falco peregrinus}
+			{peregrine falcon}
+	törnskator 
+		{laniidae}
+		{shrike}
+		törnskata
+			{lanius collurio}
+			{red-backed shrike}
+		svartpannad törnskata
+			{lanius minor}
+			{lesser grey shrike}
+		varfågel
+			{lanius excubitor}
+			{great grey shrike}
+	gyllingar 
+		{oriolidae}
+		{old world oriole}
+		sommargylling
+			{oriolus oriolus}
+			{eurasian golden oriole}
+	kråkfåglar 
+		{corvidae}
+		lavskrika
+			{perisoreus infaustus}
+			{siberian jay}
+		nötskrika
+			{garrulus glandarius}
+			{eurasian jay}
+		skata
+			{pica pica}
+			{eurasian magpie}
+		nötkråka
+			{nucifraga caryocatactes}
+			{spotted nutcracker}
+		kaja
+			{corvus monedula}
+			{western jackdaw}
+		råka
+			{corvus frugilegus}
+			{rook (bird)}
+		kråka
+			{corvus corone}
+			{hooded crow}
+		korp
+			{corvus corax}
+			{common raven}
+	sidensvansar 
+		{bombycillidae}
+		{waxwing}
+		sidensvans
+			{bombycilla garrulus}
+			{bohemian waxwing}
+	mesar 
+		{paridae}
+		{tit (bird)}
+		tofsmes
+			{lophophanes cristatus}
+			{european crested tit}
+		svartmes
+			{periparus ater}
+			{coal tit}
+		entita
+			{poecile palustris}
+			{marsh tit}
+		talltita
+			{poecile montanus}
+			{willow tit}
+		lappmes
+			{poecile cinctus}
+			{grey-headed chickadee}
+		blåmes
+			{cyanistes careuleus}
+			{eurasian blue tit}
+		talgoxe
+			{parus major}
+			{great tit}
+	pungmesar 
+		{remizidae}
+		{penduline tit}
+		pungmes
+			{remiz pendulinus}
+			{eurasian penduline tit}
+	skäggmesar 
+		{panuridae}
+		{bearded reedling}
+		skäggmes
+			{panurus biarmicus}
+			{bearded reedling}
+	lärkor 
+		{alaudidae}
+		{lark}
+		trädlärka
+			{lullula arborea}
+			{woodlark}
+		sånglärka
+			{alauda arvensis}
+			{eurasian skylark}
+		tofslärka
+			{galerida cristata}
+			{crested lark}
+		berglärka
+			{eremophila alpestris}
+			{horned lark}
+		korttålärka
+			{calandrella brachydactyla}
+			{greater short-toed lark}
+	svalor 
+		{hirundinidae}
+		{swallow}
+		backsvala
+			{riparia riparia}
+			{sand martin}
+		ladusvala
+			{hirundo rustica}
+			{barn swallow}
+		hussvala
+			{delichon urbicum}
+			{common house martin}
+	stjärtmesar 
+		{aegithalidae}
+		stjärtmes
+			{aegithalos caudatus}
+			{long-tailed tit}
+	lövsångare 
+		{phylloscopidae}
+		lövsångare
+			{phylloscopus trochilus}
+			{willow warbler}
+		gransångare
+			{phylloscopus collybita}
+			{common chiffchaff}
+		grönsångare
+			{phylloscopus sibilatrix}
+			{wood warbler}
+		kungsfågelsångare
+			{phylloscopus proregulus}
+			{pallas's leaf warbler}
+		tajgasångare
+			{phylloscopus inornatus}
+			{yellow-browed warbler}
+		nordsångare
+			{phylloscopus borealis}
+			{arctic warbler}
+		lundsångare
+			{phylloscopus trochiloides}
+			{greenish warbler}
+	rörsångare 
+		{acrocephalidae}
+		trastsångare
+			{acrocephalus arundinaceus}
+			{great reed warbler}
+		sävsångare
+			{acrocephalus schoenobaenus}
+			{sedge warbler}
+		busksångare
+			{acrocephalus dumetorum}
+			{blyth's reed warbler}
+		rörsångare
+			{acrocephalus scirpaceus}
+			{eurasian reed warbler}
+		kärrsångare
+			{acrocephalus palustris}
+			{marsh warbler}
+		härmsångare
+			{hippolais icterina}
+			{icterine warbler}
+	gräsfåglar 
+		{locustellidae}
+		gräshoppsångare
+			{locustella naevia}
+			{common grasshopper warbler}
+		flodsångare
+			{locustella fluviatilis}
+			{river warbler}
+		vassångare
+			{locustella luscinioides}
+			{savi's warbler}
+	sylvior 
+		{sylviidae}
+		svarthätta
+			{sylvia atricapilla}
+			{eurasian blackcap}
+		trädgårdssångare
+			{sylvia borin}
+			{garden warbler}
+		höksångare
+			{sylvia nisoria}
+			{barred warbler}
+		ärtsångare
+			{sylvia curruca}
+			{lesser whitethroat}
+		törnsångare
+			{sylvia communis}
+			{common whitethroat}
+	kungsfåglar 
+		{regulidae}
+		{kinglet}
+		brandkronad kungsfågel
+			{regulus ignicapilla}
+			{common firecrest}
+		kungsfågel
+			{regulus regulus}
+			{goldcrest}
+	gärdsmygar 
+		{troglodytidae}
+		{wren}
+		gärdsmyg
+			{troglodytes troglodytes}
+			{eurasian wren}
+	nötväckor 
+		{sittidae}
+		nötväcka
+			{sitta europaea}
+			{eurasian nuthatch}
+	trädkrypare 
+		{certhiidae}
+		{eurasian treecreeper}
+		trädkrypare
+			{certhia familiaris}
+			{eurasian treecreeper}
+		trädgårdsträdkrypare
+			{certhia brachydactyla}
+			{short-toed treecreeper}
+	starar 
+		{sturnidae}
+		{starling}
+		stare
+			{sturnus vulgaris}
+			{common starling}
+		rosenstare
+			{pastor roseus}
+			{rosy starling}
+	trastar 
+		{turdidae}
+		{thrush (bird)}
+		ringtrast
+			{turdus torquatus}
+			{ring ouzel}
+		koltrast
+			{turdus merula}
+			{common blackbird}
+		björktrast
+			{turdus pilaris}
+			{fieldfare}
+		rödvingetrast
+			{turdus iliacus}
+			{redwing}
+		taltrast
+			{turdus philomelos}
+			{song thrush}
+		dubbeltrast
+			{turdus viscivorus}
+			{mistle thrush}
+	flugsnappare 
+		{muscicapidae}
+		{old world flycatcher}
+		grå flugsnappare
+			{muscicapa striata}
+			{spotted flycatcher}
+		rödhake
+			{erithacus rubecula}
+			{european robin}
+		näktergal
+			{luscinia luscinia}
+			{thrush nightingale}
+		blåhake
+			{luscinia svecia}
+			{bluethroat}
+		tajgablåstjärt
+			{tarsiger cyanurus}
+			{red-flanked bluetail}
+		svartvit flugsnappare
+			{ficedula hypoleuca}
+			{european pied flycatcher}
+		halsbandsflugsnappare
+			{ficedula albicollis}
+			{collared flycatcher}
+		mindre flugsnappare
+			{ficedula parva}
+			{red-breasted flycatcher}
+		svart rödstjärt
+			{phoenicurus ochruros}
+			{black redstart}
+		rödstjärt
+			{phoenicurus phoenicurus}
+			{common redstart}
+		buskskvätta
+			{saxicola rubetra}
+			{whinchat}
+		svarthakad buskskvätta
+			{saxicola rubicola}
+			{european stonechat}
+		stenskvätta
+			{oenanthe oenanthe}
+			{northern wheatear}
+	strömstarar 
+		{cinclidae}
+		strömstare
+			{cinclus cinclus}
+			{white-throated dipper}
+	sparvfinkar 
+		{passeridae}
+		{old world sparrow}
+		gråsparv
+			{passer domesticus}
+			{house sparrow}
+		pilfink
+			{passer montanus}
+			{eurasian tree sparrow}
+	järnsparvar 
+		{prunellidae}
+		järnsparv
+			{prunella modularis}
+			{dunnock}
+	ärlor 
+		{motacillidae}
+		gulärla
+			{motacilla flava}
+			{western yellow wagtail}
+		citronärla
+			{motacilla citreola}
+			{citrine wagtail}
+		forsärla
+			{motacilla cinerea}
+			{grey wagtail}
+		sädesärla
+			{motacilla alba}
+			{white wagtail}
+		större piplärka
+			{anthus richardi}
+			{richard's pipit}
+		fältpiplärka
+			{anthus campestris}
+			{tawny pipit}
+		ängspiplärka
+			{anthus pratensis}
+			{meadow pipit}
+		trädpiplärka
+			{anthus trivialis}
+			{tree pipit}
+		rödstrupig piplärka
+			{anthus cervinus}
+			{red-throated pipit}
+		vattenpiplärka
+			{anthus spinoletta}
+			{water pipit}
+		skärpiplärka
+			{anthus petrosus}
+			{eurasian rock pipit}
+	finkar 
+		{fringillidae}
+		{finch}
+		bofink
+			{fringilla coelebs}
+			{common chaffinch}
+		bergfink
+			{fringilla montifringilla}
+			{brambling}
+		stenknäck
+			{coccothraustes coccothraustes}
+			{hawfinch}
+		tallbit
+			{pinicola enucleator}
+			{pine grosbeak}
+		domherre
+			{pyrrhula pyrrhula}
+			{eurasian bullfinch}
+		rosenfink
+			{carpodacus erythrinus}
+			{common rosefinch}
+		grönfink
+			{chloris chloris}
+			{european greenfinch}
+		vinterhämpling
+			{linaria flavirostris}
+			{twite}
+		hämpling
+			{linaria cannabina}
+			{common linnet}
+		gråsiska
+			{acanthis flammea}
+			{common redpoll}
+		större korsnäbb
+			{loxia pytyopsittacus}
+			{parrot crossbill}
+		mindre korsnäbb
+			{loxia curvirostra}
+			{red crossbill}
+		bändelkorsnäbb
+			{loxia leucoptera}
+			{two-barred crossbill}
+		steglits
+			{carduelis carduelis}
+			{european goldfinch}
+		gulhämpling
+			{serinus serinus}
+			{european serin}
+		grönsiska
+			{spinus spinus}
+			{eurasian siskin}
+	fältsparvar 
+		{emberizidae}
+		kornsparv
+			{emberiza calandra}
+			{corn bunting}
+		gulsparv
+			{emberiza citrinella}
+			{yellowhammer}
+		ortolansparv
+			{emberiza hortulana}
+			{ortolan bunting}
+		dvärgsparv
+			{emberiza pusilla}
+			{little bunting}
+		videsparv
+			{emberiza rustica}
+			{rustic bunting}
+		sävsparv
+			{emberiza schoeniclus}
+			{common reed bunting}
+	sporrsparvar 
+		{calcariidae}
+		lappsparv
+			{calcarius lapponicus}
+			{lapland longspur}
+		snösparv
+			{plectrophenax nivalis}
+			{snow bunting}

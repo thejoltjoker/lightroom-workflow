@@ -4,8 +4,11 @@ Develop Presets/vendor
 Develop Presets/other
 Legacy/Develop Presets/vendor
 Legacy/Develop Presets/other
+Lightroom/Develop Presets/vendor
 
 Export Presets/tumblr
 Legacy/Export Presets/tumblr
 
 dailies_tumblr.lrtemplate
+pushbullet.json
+tjj-bot.log

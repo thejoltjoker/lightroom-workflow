@@ -43,6 +43,20 @@ I will try and gather some common file export presets I use for various exports.
 
 Here I will have my file naming templates.
 
+### Export Actions
+
+#### create_contact_sheet
+
+Creates a contact sheet for all the exported photos and puts in the export folder. Requires ImageMagick to be installed.
+
+## Keywords
+
+Keyword lists for use in Lightroom.
+
+### Swedish birds
+
+A list of birds that can be seen in Sweden. Names are in swedish but synonyms are added in latin and english.
+
 ## Legacy
 
 I was using the old Lightroom Classic until recently so the .lrtemplate presets are in this folder.
