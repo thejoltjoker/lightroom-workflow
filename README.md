@@ -1,5 +1,7 @@
 # Lightroom Workflow
 
+ABOUT ME
+
 ## Introduction
 
 Hi friend! 👋
@@ -11,6 +13,13 @@ It used to be only presets but it's turning into more of a full on workflow for 
 The presets are free to use. Some of them are great, others not so great. Some only work for certain type of photos and some work for most.
 
 Whatever you end up using this for I hope it will aid in your workflow! 🎉
+
+### About Me
+
+I'm photographer, filmmaker and 3D artist. I do on-set work as a DIT and Data Wrangler and have worked in VFX pipelines.
+So because of this I try optimize my own personal workflow as well.
+
+You can find my photography on [Instagram](http://instagram.com/thejoltjoker) and [Unsplash](https://unsplash.com/@thejoltjoker).
 
 ### Say Thanks 🍻
 
