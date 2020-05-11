@@ -1,7 +1,5 @@
 # Lightroom Workflow
 
-ABOUT ME
-
 ## Introduction
 
 Hi friend! 👋
