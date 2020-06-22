@@ -1,0 +1,15 @@
+s = {
+	id = "73856E11-611B-4C96-BCFC-5BA07BA6F5E5",
+	internalName = "starred",
+	title = "starred",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "rating",
+			operation = ">=",
+			value = 1,
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

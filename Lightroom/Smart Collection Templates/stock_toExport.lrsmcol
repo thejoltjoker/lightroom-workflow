@@ -1,0 +1,27 @@
+s = {
+	id = "4369A1BE-0141-4AEE-A70B-9357A45D54A2",
+	internalName = "stock_toExport",
+	title = "stock_toExport",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "collection",
+			operation = "any",
+			value = "stock_selection",
+			value2 = "",
+		},
+		{
+			criteria = "labelColor",
+			operation = "==",
+			value = 3,
+		},
+		{
+			criteria = "collection",
+			operation = "noneOf",
+			value = "stock_exported",
+			value2 = "",
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

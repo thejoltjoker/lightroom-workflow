@@ -1,0 +1,20 @@
+s = {
+	id = "5C7C48C5-0E4C-4114-B103-72888E633EC2",
+	internalName = "edit_doing",
+	title = "edit_doing",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "rating",
+			operation = ">=",
+			value = 1,
+		},
+		{
+			criteria = "labelColor",
+			operation = "==",
+			value = 2,
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

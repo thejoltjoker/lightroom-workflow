@@ -1,0 +1,28 @@
+s = {
+	id = "C922C19F-DF8A-4A94-8E33-E7DEA8FF0A39",
+	internalName = "meta_todo",
+	title = "meta_todo",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "caption",
+			operation = "empty",
+			value = "",
+			value2 = "",
+		},
+		{
+			criteria = "title",
+			operation = "empty",
+			value = "",
+			value2 = "",
+		},
+		{
+			criteria = "keywords",
+			operation = "empty",
+			value = "",
+			value2 = "",
+		},
+		combine = "union",
+	},
+	version = 0,
+}

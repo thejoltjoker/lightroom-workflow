@@ -1,0 +1,16 @@
+s = {
+	id = "7A411A0A-691C-4250-AA3F-496E29FCD14B",
+	internalName = "publish_bestOf",
+	title = "publish_bestOf",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "keywords",
+			operation = "any",
+			value = "_portfolio",
+			value2 = "",
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

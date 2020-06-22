@@ -1,0 +1,21 @@
+s = {
+	id = "8A3E5818-10ED-4D0F-88A1-70A544E12850",
+	internalName = "insta_toEdit",
+	title = "insta_toEdit",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "collection",
+			operation = "any",
+			value = "insta_selection",
+			value2 = "",
+		},
+		{
+			criteria = "labelColor",
+			operation = "!=",
+			value = 3,
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

@@ -1,0 +1,25 @@
+s = {
+	id = "1491D4F5-2F7E-4432-A8F7-6E2D14D68C8D",
+	internalName = "edit_todo",
+	title = "edit_todo",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "rating",
+			operation = ">=",
+			value = 1,
+		},
+		{
+			criteria = "labelColor",
+			operation = "!=",
+			value = 2,
+		},
+		{
+			criteria = "labelColor",
+			operation = "!=",
+			value = 3,
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

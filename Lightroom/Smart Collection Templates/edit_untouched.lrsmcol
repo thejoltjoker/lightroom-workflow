@@ -1,0 +1,25 @@
+s = {
+	id = "AF367AE5-72D4-4D70-BB24-E069186A2994",
+	internalName = "edit_untouched",
+	title = "edit_untouched",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "hasAdjustments",
+			operation = "isFalse",
+			value = true,
+		},
+		{
+			criteria = "fileFormat",
+			operation = "!=",
+			value = "VIDEO",
+		},
+		{
+			criteria = "fileFormat",
+			operation = "==",
+			value = "RAW",
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

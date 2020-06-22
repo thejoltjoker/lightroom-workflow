@@ -1,0 +1,22 @@
+s = {
+	id = "EB9220CD-6576-46BD-A732-5687213DAA0D",
+	internalName = "stock_releases",
+	title = "stock_releases",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "collection",
+			operation = "any",
+			value = "stock_selection",
+			value2 = "",
+		},
+		{
+			criteria = "keywords",
+			operation = "any",
+			value = "person",
+			value2 = "",
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

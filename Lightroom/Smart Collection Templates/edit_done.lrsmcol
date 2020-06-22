@@ -1,0 +1,20 @@
+s = {
+	id = "E41B7064-FC92-4425-9652-E9901E2D904D",
+	internalName = "edit_done",
+	title = "edit_done",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "rating",
+			operation = ">=",
+			value = 1,
+		},
+		{
+			criteria = "labelColor",
+			operation = "==",
+			value = 3,
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

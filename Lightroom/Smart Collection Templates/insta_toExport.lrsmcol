@@ -1,0 +1,27 @@
+s = {
+	id = "376322BC-17A5-41AD-9A34-88B8D5D423F5",
+	internalName = "insta_toExport",
+	title = "insta_toExport",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "collection",
+			operation = "any",
+			value = "insta_selection",
+			value2 = "",
+		},
+		{
+			criteria = "labelColor",
+			operation = "==",
+			value = 3,
+		},
+		{
+			criteria = "collection",
+			operation = "noneOf",
+			value = "insta_exported",
+			value2 = "",
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}
