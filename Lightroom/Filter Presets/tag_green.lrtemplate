@@ -1,7 +1,7 @@
 s = {
-	id = "3A8AAEE5-6E93-4E65-ADB6-A98C3AC93553",
-	internalName = "no_caption",
-	title = "no_caption",
+	id = "F4CB235B-D66B-45C7-8797-B0F5B40D4FD9",
+	internalName = "tag_green",
+	title = "tag_green",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
@@ -33,7 +33,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 0,
+		minRating = "<nil>",
 		noLabel = false,
 		pick = "<nil>",
 		ratingOp = ">=",

@@ -1,32 +1,67 @@
 prefs = {
-	libraryToLoad20 = "/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat",
+	Adobe_successfulUpgrades0900000 = "pickle = {\
+	[\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2007\\\\lightroom_2007_v002.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"29DF6FBF-FF55-46A1-B29E-8731AB95D42C\",\
+		upgraded = \"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2007\\\\lightroom_2007_v002-2.lrcat\",\
+	},\
+	[\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2008\\\\lr_classic_2008_v002.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"90F3768C-431D-4330-B1F5-61466D3A84C0\",\
+		upgraded = \"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2008\\\\lr_classic_2008_v002-2.lrcat\",\
+	},\
+	[\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2009\\\\lr_classic_2009_v002.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"942AF684-8150-4524-9D21-BD9DF0F5E867\",\
+		upgraded = \"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2009\\\\lr_classic_2009_v002-2.lrcat\",\
+	},\
+	[\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2010\\\\lr_classic_2010_v002.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"278F292C-DA72-4590-863F-749C6BA2827B\",\
+		upgraded = \"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2010\\\\lr_classic_2010_v002-2.lrcat\",\
+	},\
+	[\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2016\\\\lightroom_2016_v002.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"C77278A6-21CD-41ED-855F-DB1173F1EB78\",\
+		upgraded = \"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2016\\\\lightroom_2016_v002-2.lrcat\",\
+	},\
+	[\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2017\\\\lightroom_2017_v003.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"D1A32B36-A3B8-4B6C-91E7-9F4535079F63\",\
+		upgraded = \"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2017\\\\lightroom_2017_v003-2.lrcat\",\
+	},\
+}\
+",
+	libraryToLoad20 = "/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2020/lr_classic_2020_v002.lrcat",
 	recentLibraries20 = "recentLibraries = {\
-	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2013/lightroom_classic_2013_005/lightroom_classic_2013_005.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2016/lightroom_2016_002/lightroom_2016_002.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2012/lightroom_classic_2012_004/lightroom_classic_2012_004.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/work/rbillume_2019_v001/rbillume_2019_v001.lrcat\",\
-	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
-	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2020/lr_classic_2020_v002.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2014/lr_classic_2014_v005.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2012/lr_classic_2012_v005.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2012/lr_classic_2012_v005.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2019/lr_classic_2019_v002.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2016/lightroom_2016_v003.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2019/lr_classic_2019_v002.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2017/lightroom_2017_v004.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2018/lr_classic_2018_v002.lrcat\",\
+	\"/Users/johannes/Dropbox/projects/2020/200529_isacPhotos/capture/work/isacPhotos_v001/isacPhotos_v001.lrcat\",\
 }\
 ",
 	recentLibraries20_missing = "recentMissingLibraries = {\
-	\"E:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2018\\\\lightroom_classic_2018_001\\\\lightroom_classic_2018_001.lrcat\",\
-	\"/Volumes/mcdrive/pictures/lightroom/catalogs/2012/lightroom_classic_2012_004/lightroom_classic_2012_004.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2019/2019.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/lightroom/work/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2018/2018.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2016/2016.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/export/2017/2017.lrcat\",\
-	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
-	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
-	\"/Volumes/mcdrive/pictures/lightroom/work/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
-	\"/Volumes/mcdrive/pictures/lightroom/work/2016/lightroom_2016_002/lightroom_2016_002.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2018/lightroom_classic_2018_001/lightroom_classic_2018_001.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2019/lr_classic_2019_001/lr_classic_2019_001.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2012/lightroom_classic_2012_004/lightroom_classic_2012_004.lrcat\",\
-	\"/Users/johannes/Dropbox/Pictures/work/2019/190728_redBullIllume/work/rbillume_2019_v001/rbillume_2019_v001.lrcat\",\
+	\"/Users/johannes/Desktop/test2/test2.lrcat\",\
+	\"/Volumes/mcdaddy/pictures/lightroom/catalogs/2019/lr_classic_2019_002.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2019\\\\lr_classic_2019_v002.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2018\\\\lr_classic_2018_v002.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2017\\\\lightroom_2017_v004.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2016\\\\lightroom_2016_v003.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2012\\\\lr_classic_2012_v005.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\template\\\\template.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2007\\\\lightroom_2007_v003.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2006\\\\lr_classic_2006_v001.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2020\\\\lr_classic_2020_v001.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2015\\\\lr_classic_2015_v008.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2014\\\\lr_classic_2014_v005.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2013\\\\lr_classic_2013_v006.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2011\\\\lr_classic_2011_v005.lrcat\",\
 }\
 ",
 	recentLibraryBehavior20 = "UseMostRecentLibrary",

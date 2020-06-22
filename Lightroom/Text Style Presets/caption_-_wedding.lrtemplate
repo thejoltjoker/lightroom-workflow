@@ -1,0 +1,26 @@
+s = {
+	id = "389AFA59-B216-479C-9084-0E2704403AFD",
+	internalName = "caption - wedding",
+	title = ZSTR "$$$/TextStylePreset/CaptionWedding=caption - wedding",
+	type = "NamedTextStylePreset",
+	value = {
+		items = {
+			{
+				alignment = "AlignLeft",
+				autoKerning = true,
+				autoLeading = true,
+				baselineShift = 0,
+				blue = 0,
+				fontFamily = "Bickham Script Pro",
+				fontSize = 18,
+				fontStyle = "Regular",
+				green = 0,
+				leading = 21.60000038147,
+				opacity = 100,
+				red = 0,
+				tracking = 0,
+			},
+		},
+	},
+	version = 0,
+}

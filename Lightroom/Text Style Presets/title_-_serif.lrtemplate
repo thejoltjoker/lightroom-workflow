@@ -1,0 +1,26 @@
+s = {
+	id = "9495FB21-5F73-46F2-992B-4C76FD0BA0CF",
+	internalName = "title - serif",
+	title = ZSTR "$$$/TextStylePreset/TitleSerif=title - serif",
+	type = "NamedTextStylePreset",
+	value = {
+		items = {
+			{
+				alignment = "AlignCenter",
+				autoKerning = true,
+				autoLeading = true,
+				baselineShift = 0,
+				blue = 0,
+				fontFamily = "Adobe Garamond Pro",
+				fontSize = 24,
+				fontStyle = "Regular",
+				green = 0,
+				leading = 9.6000003814697,
+				opacity = 100,
+				red = 0,
+				tracking = 0,
+			},
+		},
+	},
+	version = 0,
+}

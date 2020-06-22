@@ -1,0 +1,26 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "date_YYMMDD",
+			},
+			"_",
+			{
+				value = "com.adobe.title",
+			},
+			"_by_",
+			{
+				value = "com.adobe.creator",
+			},
+			name = "date_title_by_creator",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "5A112326-10D5-46DF-AFF0-D754D355376B",
+	internalName = "date_title_by_creator",
+	title = "date_title_by_creator",
+	type = "Naming_Tokens",
+	version = 0,
+}

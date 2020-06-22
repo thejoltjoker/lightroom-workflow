@@ -1,0 +1,26 @@
+s = {
+	id = "D368FE2B-03A0-40DA-90DF-78792A01D08D",
+	internalName = "caption - serif",
+	title = ZSTR "$$$/TextStylePreset/CaptionSerif=caption - serif",
+	type = "NamedTextStylePreset",
+	value = {
+		items = {
+			{
+				alignment = "AlignLeft",
+				autoKerning = true,
+				autoLeading = true,
+				baselineShift = 0,
+				blue = 0,
+				fontFamily = "Adobe Garamond Pro",
+				fontSize = 8,
+				fontStyle = "Regular",
+				green = 0,
+				leading = 9.6000003814697,
+				opacity = 100,
+				red = 0,
+				tracking = 0,
+			},
+		},
+	},
+	version = 0,
+}

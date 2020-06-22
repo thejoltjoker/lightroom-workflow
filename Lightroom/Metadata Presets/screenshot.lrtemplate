@@ -1,0 +1,13 @@
+s = {
+	id = "A7A9A551-022C-4FFA-AE50-8A2CDEDCEED0",
+	internalName = "screenshot",
+	title = "screenshot",
+	type = "Metadata",
+	value = {
+		["com.adobe.caption"] = "Screenshot",
+		["com.adobe.keywords"] = "screenshot",
+		["com.adobe.title"] = "Screenshot",
+		uuid = "55088CCF-1381-4A87-B7C1-11AFB5308268",
+	},
+	version = 0,
+}

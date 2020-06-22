@@ -1,0 +1,36 @@
+s = {
+	deflated = {
+		{
+			{
+				value = "date_YYMMDD",
+			},
+			"_",
+			{
+				value = "date_Hour",
+			},
+			{
+				value = "date_Minute",
+			},
+			{
+				value = "date_Second",
+			},
+			"_",
+			{
+				value = "com.adobe.title",
+			},
+			"_by_",
+			{
+				value = "com.adobe.creator",
+			},
+			name = "date_time_title_by_creator",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "CAEF5C0A-CB83-44D1-B136-47E02E7472D8",
+	internalName = "date_time_title_by_creator",
+	title = "date_time_title_by_creator",
+	type = "Naming_Tokens",
+	version = 0,
+}

@@ -1,0 +1,26 @@
+s = {
+	id = "2451091A-22CF-4F81-8E33-902705EEC72D",
+	internalName = "title - sans serif",
+	title = ZSTR "$$$/TextStylePreset/TitleSansSerif=title - sans serif",
+	type = "NamedTextStylePreset",
+	value = {
+		items = {
+			{
+				alignment = "AlignCenter",
+				autoKerning = true,
+				autoLeading = true,
+				baselineShift = 0,
+				blue = 0,
+				fontFamily = "Myriad Pro",
+				fontSize = 24,
+				fontStyle = "Regular",
+				green = 0,
+				leading = 9.6000003814697,
+				opacity = 100,
+				red = 0,
+				tracking = 0,
+			},
+		},
+	},
+	version = 0,
+}

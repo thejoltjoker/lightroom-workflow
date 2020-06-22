@@ -1,0 +1,26 @@
+s = {
+	id = "0B9FA9F9-3989-4E1F-A283-35DC715AA88D",
+	internalName = "caption - sans serif",
+	title = ZSTR "$$$/TextStylePreset/CaptionSansSerif=caption - sans serif",
+	type = "NamedTextStylePreset",
+	value = {
+		items = {
+			{
+				alignment = "AlignLeft",
+				autoKerning = true,
+				autoLeading = true,
+				baselineShift = 0,
+				blue = 0,
+				fontFamily = "Myriad Pro",
+				fontSize = 8,
+				fontStyle = "Regular",
+				green = 0,
+				leading = 9.6000003814697,
+				opacity = 100,
+				red = 0,
+				tracking = 0,
+			},
+		},
+	},
+	version = 0,
+}

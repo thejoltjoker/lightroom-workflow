@@ -1,13 +1,16 @@
 s = {
-	id = "3A8AAEE5-6E93-4E65-ADB6-A98C3AC93553",
-	internalName = "no_caption",
-	title = "no_caption",
+	id = "2B4DF374-4173-45CB-9F03-4978D524AFE8",
+	internalName = "unedited",
+	title = "unedited",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
-				criteria = "dateHierarchy",
+				criteria = "keyword",
+				selections = {
+					190636,
+				},
 			},
 			{
 				criteria = "camera",
@@ -18,10 +21,11 @@ s = {
 			{
 				criteria = "label",
 			},
+			notify = true,
 		},
 		customLabel = false,
-		edit = "<nil>",
-		filtersActive = false,
+		edit = "unedited",
+		filtersActive = true,
 		gpsLocation = false,
 		gpsLocationNELatitude = "<nil>",
 		gpsLocationNELongitude = "<nil>",
@@ -37,10 +41,10 @@ s = {
 		noLabel = false,
 		pick = "<nil>",
 		ratingOp = ">=",
-		searchOp = "empty",
-		searchString = "",
-		searchStringActive = true,
-		searchTarget = "caption",
+		searchOp = "any",
+		searchString = "cold",
+		searchStringActive = false,
+		searchTarget = "all",
 		usage = "<nil>",
 		whichCopies = "<nil>",
 	},

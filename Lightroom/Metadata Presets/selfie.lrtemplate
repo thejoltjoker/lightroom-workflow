@@ -1,0 +1,13 @@
+s = {
+	id = "9127832F-D04A-4AB0-A150-DC8DD9E1F0C0",
+	internalName = "selfie",
+	title = "selfie",
+	type = "Metadata",
+	value = {
+		["com.adobe.caption"] = "Selfie",
+		["com.adobe.keywords"] = "selfie",
+		["com.adobe.title"] = "Selfie",
+		uuid = "3D0B4A90-A764-44FA-9D82-4993A5074F58",
+	},
+	version = 0,
+}

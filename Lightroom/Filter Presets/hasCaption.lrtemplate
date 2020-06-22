@@ -1,7 +1,7 @@
 s = {
-	id = "3A8AAEE5-6E93-4E65-ADB6-A98C3AC93553",
-	internalName = "no_caption",
-	title = "no_caption",
+	id = "7BEF5593-ADAC-4367-A603-C5740FD45AA2",
+	internalName = "hasCaption",
+	title = "hasCaption",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
@@ -37,7 +37,7 @@ s = {
 		noLabel = false,
 		pick = "<nil>",
 		ratingOp = ">=",
-		searchOp = "empty",
+		searchOp = "notEmpty",
 		searchString = "",
 		searchStringActive = true,
 		searchTarget = "caption",

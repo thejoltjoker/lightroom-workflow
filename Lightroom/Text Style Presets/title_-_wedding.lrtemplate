@@ -1,0 +1,26 @@
+s = {
+	id = "73B177AD-B75D-4A0E-B96D-2B9DA6FAF333",
+	internalName = "title - wedding",
+	title = ZSTR "$$$/TextStylePreset/Wedding=title - wedding",
+	type = "NamedTextStylePreset",
+	value = {
+		items = {
+			{
+				alignment = "AlignCenter",
+				autoKerning = true,
+				autoLeading = true,
+				baselineShift = 0,
+				blue = 0,
+				fontFamily = "Bickham Script Pro",
+				fontSize = 48,
+				fontStyle = "Regular",
+				green = 0,
+				leading = 21.60000038147,
+				opacity = 100,
+				red = 0,
+				tracking = 0,
+			},
+		},
+	},
+	version = 0,
+}

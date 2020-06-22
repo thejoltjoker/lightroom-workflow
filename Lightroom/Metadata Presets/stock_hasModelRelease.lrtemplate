@@ -1,0 +1,12 @@
+s = {
+	id = "E67AABED-A5E5-4076-AC28-C06AD16716CD",
+	internalName = "stock_hasModelRelease",
+	title = "stock_hasModelRelease",
+	type = "Metadata",
+	value = {
+		["com.adobe.keywords"] = "person",
+		["com.adobe.modelReleaseStatus"] = "http://ns.useplus.org/ldf/vocab/MR-UMR",
+		uuid = "4601B34D-F9AE-45C2-8283-63ADC3767351",
+	},
+	version = 0,
+}
