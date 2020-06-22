@@ -1,0 +1,2320 @@
+sverige
+	{sweden}
+	{svea rike}
+	stockholms län
+		upplands väsby kommun
+			båtbyggartorp och harva
+			löwenströmska lasarettet
+		vallentuna kommun
+			brottby
+			ekskogen
+			ekskogen, älgeby och långsjötorp
+			johannesudd
+			karby
+			kårsta
+			lindholmen
+			vallentuna
+		österåker kommun
+			bammarboda
+			laggarsvik och linanäs
+			nolsjö och lervikstorp
+			nyhagen och översättra
+			rydbo
+			solberga
+			spånlöt
+			stava
+			svinninge
+			täljö
+			åkersberga
+		värmdö kommun
+			betsede
+			brunn
+			djurö
+			fågelvikshöjden
+			grönskan, vedhamn och baldersnäs
+			gustavsberg
+			kopparmora
+			koviksudde och skeviksstrand
+			lugnet och skälsmara
+			långvik
+			norra ingaröstrand och skälsmara
+			norra lagnö
+			norra vindö
+			stavsnäs
+			strömma
+			älvsala
+			ängsvik
+		ekerö kommun
+			drottningholm
+			ekeby
+			ekerö
+			ekerö sommarstad
+			helgö
+			hilleshögby
+			jungfrusund
+			kungsberga
+			lilla stenby
+			lurudden
+			parksidan och solsidan
+			stenhamra
+			sundby
+			söderby
+			tureholm
+			älvnäs
+			ölsta
+		huddinge kommun
+			gladö kvarn
+			vidja
+			östorp och ådran
+		botkyrka kommun
+			kagghamra
+			norra riksten
+			sibble
+			tumba
+			vårsta
+		haninge kommun
+			dalarö
+			gansta och söderby
+			jordbro
+			muskö
+			norra muskö
+			väländan
+			västerhaninge
+			årsta havsbad
+		upplands-bro kommun
+			bro
+			brunna
+			håbo-tibble kyrkby
+			kungsängen
+			kvista
+			rättarboda
+		nykvarn kommun
+			finkarby
+			nygårds hagar
+			nykvarn
+			stensättra tomtområde
+			turinge och vidbynäs
+		täby kommun
+			arninge
+		danderyd kommun
+			tranholmen
+		sollentuna kommun
+			upplands väsby och sollentuna
+		stockholm kommun
+			stockholm
+		södertälje kommun
+			ekeby
+			hölö
+			järna
+			kallfors
+			mölnbo
+			nibble
+			pershagen
+			sandviken
+			södertälje
+			tuna
+			vattubrinken
+			viksäter och viksberg
+		nacka kommun
+			fisksätra
+			hästhagen
+			kil
+			kummelnäs
+			saltsjöbaden
+			älgö
+		lidingö kommun
+			lidingö
+			sticklinge udde
+			storholmen
+		vaxholm kommun
+			kullö
+			resarö
+			rindö
+			skarpö
+			tynningö
+			vaxholm
+		norrtälje kommun
+			bergshamra
+			blidö
+			edsbro
+			finsta
+			grisslehamn
+			hallstavik
+			herräng
+			hysingsvik
+			hästängen och mora
+			malsta
+			nabbo, gräddö och rävsnäs
+			norrtälje
+			nysättra
+			oxhalsö
+			riala
+			rimbo
+			rånäs
+			skebobruk
+			spillersboda
+			svanberga
+			söderby-karl
+			södersvik
+			älmsta
+		sigtuna kommun
+			granby
+			märsta
+			rosersberg
+			sigtuna
+			steningehöjden
+			venngarn
+		nynäshamn kommun
+			grödby
+			landfjärden
+			lidatorp och klövsta
+			nynäshamn
+			oxnö och svärdsö
+			segersäng
+			sorunda
+			stora vika
+			ösmo
+	uppsala län
+		håbo kommun
+			bålsta
+			häggeby och vreta
+			kivinge
+			krägga
+			råby
+			slottsskogen
+			söderskogen
+			vibyäng
+		älvkarleby kommun
+			gårdskär
+			marma
+			skutskär
+			älvkarleby
+			älvkarleö
+		knivsta kommun
+			alsike
+			edeby
+			knivsta
+		heby kommun
+			harbo
+			heby
+			morgongåva
+			tärnsjö
+			vittinge
+			östervåla
+		tierp kommun
+			karlholmsbruk
+			mehedeby
+			månkarbo
+			skärplinge
+			söderfors
+			tierp
+			tobo
+			upplanda
+			örbyhus
+		uppsala kommun
+			almunge
+			björklinge
+			blackstalund
+			bälinge
+			bärby
+			danmark
+			funbo
+			gunsta
+			gåvsta
+			håga
+			jälla
+			järlåsa
+			knutby
+			läby
+			länna
+			lövstalöt
+			ramstalund
+			selknä och marielund
+			skyttorp
+			skölsta
+			stenbron
+			storvreta
+			sävja
+			ultuna
+			uppsala
+			vattholma
+			vrångelsta
+			vänge
+			ytternäs och vreta
+		enköping kommun
+			bredsand
+			enköping
+			fjärdhundra
+			grillby
+			haga
+			hummelsta
+			lillkyrka
+			märsön
+			örsundsbro
+			örsundsbro norra
+		östhammar kommun
+			alunda
+			dannemora
+			gimo
+			hargshamn
+			skoby
+			öregrund
+			österbybruk
+			östhammar
+	södermanlands län
+		vingåker kommun
+			baggetorp
+			högsjö
+			läppe
+			marmorbyn
+			vingåker
+		gnesta kommun
+			björnlunda
+			gnesta
+			hållsta
+			stjärnhov
+		nyköping kommun
+			arnö
+			bergshammar
+			buskhyttan
+			enstaberga
+			jönåker
+			kvegerö
+			nyköping
+			nävekvarn
+			runtuna
+			sjösa
+			skeppsvik och sjöskogen
+			stavsjö
+			stigtomta
+			svalsta
+			tystberga
+			vrena
+			ålberga
+			örstig
+		oxelösund kommun
+			inskogen
+			oxelösund
+		flen kommun
+			bettna
+			flen
+			hälleforsnäs
+			malmköping
+			mellösa
+			orrhammar
+			skebokvarn
+			sparreholm
+		katrineholm kommun
+			bie
+			björkvik
+			forssjö
+			katrineholm
+			sköldinge
+			strångsjö
+			valla
+			äsköping
+		eskilstuna kommun
+			alberga
+			bälgviken
+			eskilstuna
+			hållsta
+			hällberga
+			hällbybrunn
+			kjulaås
+			kullersta, kolsta och hensta
+			skiftinge
+			sundbyholm
+			torshälla
+			tumbo
+			udden
+			ärla
+		strängnäs kommun
+			abborrberget
+			björktorp och sanda
+			husby och tuna
+			härad
+			kalkudden
+			mariefred
+			marielund
+			merlänna
+			stallarholmen
+			strängnäs
+			åkers styckebruk
+		trosa kommun
+			sund
+			trosa
+			vagnhärad
+			västerljung
+			öbolandet
+	östergötlands län
+		ödeshög kommun
+			hästholmen
+			ödeshög
+		ydre kommun
+			hestra
+			rydsnäs
+			österbymo
+		kinda kommun
+			horn
+			kisa
+			rimforsa
+		boxholm kommun
+			boxholm
+			strålsnäs
+		åtvidaberg kommun
+			berg
+			björsäter
+			falerum
+			grebo
+			åtvidaberg
+		finspång kommun
+			borggård
+			butbro
+			falla
+			finspång
+			grytgöl
+			hällestad
+			igelfors
+			ljusfallshammar
+			lotorp
+			rejmyre
+			sonstorp
+		valdemarsvik kommun
+			gryt
+			grännäs
+			gusum
+			ringarum
+			valdemarsvik
+		linköping kommun
+			askeby
+			bankekind
+			bergs slussar
+			bestorp
+			brokind
+			ekängen
+			gistad
+			kränge
+			linghem
+			linköping
+			ljungsbro
+			malmslätt
+			nykil
+			rappestad
+			sjögestad
+			skeda udde
+			slaka
+			sturefors
+			tallboda
+			vikingstad
+			västerlösa
+		norrköping kommun
+			djurön
+			eksund
+			graversfors
+			herstadberg
+			kartlandet och hagsätter
+			kimstad
+			krokek
+			lindö
+			ljunga
+			lundby och malm
+			marby och marbystrand
+			norrköping
+			norsholm
+			simonstorp
+			skärblacka
+			svärtinge
+			vånga
+			åby
+			öbonäs
+			östra husby
+		söderköping kommun
+			luddingsbo
+			mogata
+			snöveltorp
+			söderköping
+			västra husby
+			östra ryd
+		motala kommun
+			borensberg
+			fornåsa
+			fågelsta
+			klockrike
+			motala
+			nykyrka
+			tjällmo
+			österstad
+		vadstena kommun
+			vadstena
+		mjölby kommun
+			hogstad
+			mantorp
+			mjölby
+			skänninge
+			spångsholm
+			sya
+			väderstad
+	jönköpings län
+		aneby kommun
+			aneby
+			frinnaryd
+			sundhultsbrunn
+		gnosjö kommun
+			gnosjö
+			hillerstorp
+			kulltorp
+			nissafors
+			törestorp
+		mullsjö kommun
+			mullsjö
+			sandhem
+		habo kommun
+			fagerhult
+			furusjö
+			habo
+			rödån
+		gislaved kommun
+			anderstorp
+			broaryd
+			burseryd
+			gislaved
+			hestra
+			reftele
+			skeppshult
+			smålandsstenar
+		vaggeryd kommun
+			bondstorp
+			hok
+			klevshult
+			skillingaryd
+			vaggeryd
+		jönköping kommun
+			bankeryd
+			barnarp och odensjö
+			bosgård, rudu och gissebo
+			bottnaryd
+			gränna
+			hulukvarn, ulvstorp och västersjön
+			jönköping
+			kaxholmen
+			kortebo
+			lekeryd
+			ryd
+			skärstad
+			taberg
+			tenhult
+			tunnerstad
+			öggestorp
+			ölmstad
+			örserum
+		nässjö kommun
+			anneberg
+			bodafors
+			flisby
+			forserum
+			fredriksdal
+			grimstorp
+			malmbäck
+			nässjö
+			ormaryd
+			solberga
+			stensjön
+			äng
+		värnamo kommun
+			bor
+			bredaryd
+			ekenhaga
+			forsheda
+			horda
+			hånger
+			kärda
+			lanna
+			rydaholm
+			värnamo
+			åminne
+		sävsjö kommun
+			rörvik
+			stockaryd
+			sävsjö
+			vrigstad
+		vetlanda kommun
+			björköby
+			ekenässjön
+			holsbybrunn
+			korsberga
+			kvillsfors
+			landsbro
+			myresjö
+			nye
+			pauliström
+			sjunnen
+			skede
+			vetlanda
+		eksjö kommun
+			bruzaholm
+			eksjö
+			hjältevad
+			hult
+			ingatorp
+			mariannelund
+		tranås kommun
+			gripenberg
+			hätte, seglarvik och sandvik
+			norraby
+			sommen
+			tranås
+	kronobergs län
+		uppvidinge kommun
+			alstermo
+			lenhovda
+			norrhult-klavreström
+			åseda
+			älghult
+		lessebo kommun
+			hovmantorp
+			kosta
+			lessebo
+			skruv
+		tingsryd kommun
+			konga
+			linneryd
+			ryd
+			rävemåla
+			tingsryd
+			urshult
+			väckelsång
+		alvesta kommun
+			alvesta
+			grimslöv
+			hjortsberga
+			moheda
+			torpsbruk
+			vislanda
+		älmhult kommun
+			delary
+			diö
+			eneryda
+			liatorp
+			älmhult
+		markaryd kommun
+			markaryd
+			strömsnäsbruk
+			traryd
+		växjö kommun
+			björnö
+			braås
+			furuby
+			gemla
+			ingelstad
+			lammhult
+			nöbbele
+			rottne
+			tävelsås
+			växjö
+			åby
+			åryd
+			öja
+		ljungby kommun
+			agunnaryd
+			angelstad
+			kånna
+			lagan
+			lidhult
+			ljungby
+			ryssby
+			vittaryd
+	kalmar län
+		högsby kommun
+			berga
+			fagerhult
+			fågelfors
+			högsby
+			ruda
+		torsås kommun
+			bergkvara
+			söderåkra
+			torsås
+		mörbylånga kommun
+			algutsrum
+			degerhamn
+			färjestaden
+			glömminge och strandskogen
+			gårdby
+			kastlösa
+			mörbylånga
+			saxnäs
+			skogsby
+			stora frö och haga park
+			vickleby
+		hultsfred kommun
+			hultsfred
+			järnforsen
+			målilla
+			mörlunda
+			rosenfors
+			silverdalen
+			vena
+			virserum
+		mönsterås kommun
+			blomstermåla
+			fliseryd
+			mönsterås
+			oknö
+			solberga och ålem
+			timmernabben
+		emmaboda kommun
+			emmaboda
+			eriksmåla
+			johansfors
+			långasjö
+			vissefjärda
+		kalmar kommun
+			drag
+			dunö
+			hagby
+			halltorp
+			kalmar
+			lindsdal
+			ljungbyholm
+			läckeby
+			påryd
+			rinkabyholm
+			rockneby
+			smedby
+			trekanten
+			tvärskog
+			vassmolösa
+			åmunnen
+		nybro kommun
+			alsterbro
+			bäckebo
+			flerohopp
+			flygsfors
+			kristvallabrunn
+			målerås
+			nybro
+			orrefors
+			örsjö
+		oskarshamn kommun
+			bockara
+			emsfors
+			figeholm
+			fårbo
+			kristdala
+			oskarshamn
+			påskallavik
+			stångehamn
+		västervik kommun
+			ankarsrum
+			edsbruk
+			gamleby
+			gunnebo
+			hjorted
+			loftahammar
+			piperskärr
+			totebo
+			västervik
+			överum
+		vimmerby kommun
+			frödinge
+			gullringen
+			storebro
+			södra vi
+			tuna
+			vimmerby
+		borgholm kommun
+			borgholm
+			löttorp
+			rälla
+	gotlands län
+		gotland kommun
+			brissund och själsö
+			burgsvik
+			fårösund
+			havdhem
+			hemse
+			klintehamn
+			lärbro
+			norra visby
+			romakloster
+			slite
+			slite norra
+			stånga
+			tingstäde
+			tofta
+			vibble
+			visby
+			väskinde
+			västerhejde
+	blekinge län
+		olofström kommun
+			gränum
+			jämshög
+			kyrkhult
+			olofström
+			vilshult
+		karlskrona kommun
+			drottningskär
+			fridlevstad
+			fågelmara
+			gängletorp
+			hasslö
+			holmsjö
+			jämjö
+			karlskrona
+			kättilsmåla
+			nättraby
+			nävragöl
+			ramdala
+			rödeby
+			sjuhalla
+			skavkulla och skillingenäs
+			spjutsbygd
+			sturkö
+			torhamn
+			trummenäs
+			tving
+		ronneby kommun
+			backaryd
+			bräkne-hoby
+			bökenäs, korsanäs och kuggeboda
+			eringsboda
+			hallabro
+			johannishus
+			kallinge
+			listerby
+			ronneby
+			ronnebyhamn
+			spjälkö och saxemara
+		karlshamn kommun
+			horsaryd och stilleryd
+			hällaryd
+			karlshamn
+			mörrum
+			svängsta
+			åryd
+		sölvesborg kommun
+			djupekås
+			hällevik
+			hörvik
+			ljungaviken
+			lörby
+			mjällby
+			norje
+			pukavik
+			sölvesborg
+			ysane
+	skåne län
+		svalöv kommun
+			billeberga
+			kågeröd
+			röstånga
+			svalöv
+			teckomatorp
+			tågarp
+		staffanstorp kommun
+			bergströmshusen
+			hjärup
+			kyrkheddinge
+			nordanå
+			staffanstorp
+		burlöv kommun
+			burlövs egnahem
+			åkarp
+		vellinge kommun
+			arrie
+			gessie villastad
+			hököpinge
+			höllviken och ljunghusen
+			skanör med falsterbo
+			vellinge
+			västra ingelstad
+			östra grevie
+		östra göinge kommun
+			broby
+			glimåkra
+			hanaskog
+			hjärsås
+			immeln
+			knislinge
+			sibbhult
+		örkelljunga kommun
+			eket
+			skånes-fagerhult
+			åsljunga
+			örkelljunga
+		bjuv kommun
+			bjuv
+			ekeby
+			gunnarstorp
+		kävlinge kommun
+			barsebäck
+			barsebäckshamn
+			dösjebro
+			furulund
+			hofterup
+			järavallen
+			kävlinge
+			lilla harrie
+			löddeköpinge
+			sandskogen
+			västra karaby
+		lomma kommun
+			bjärred
+			flädie
+			lomma
+		svedala kommun
+			bara
+			holmeja
+			klågerup
+			svedala
+		skurup kommun
+			abbekås
+			rydsgård
+			skivarp
+			skurup
+		sjöbo kommun
+			bjärsjölagård
+			blentarp
+			hemmestorp
+			karups sommarby
+			lövestad
+			sjöbo
+			sövde
+			vollsjö
+			äsperöd
+		hörby kommun
+			hörby
+			osbyholm
+			önneköp
+			östraby
+		höör kommun
+			höör
+			jularp och sjunnerup
+			norra rörum
+			snogeröd
+			tjörnarp
+		tomelilla kommun
+			brösarp
+			lunnarp
+			onslunda
+			skåne-tranås
+			smedstorp
+			spjutstorp
+			tomelilla
+		bromölla kommun
+			bromölla
+			gualöv
+			nymölla
+			näsum
+			valje
+		osby kommun
+			killeberg
+			lönsboda
+			osby
+		perstorp kommun
+			perstorp
+		klippan kommun
+			klippan
+			klippans bruk
+			ljungbyhed
+			östra ljungby
+		åstorp kommun
+			hyllinge
+			kvidinge
+			åstorp
+		båstad kommun
+			båstad
+			förslöv
+			grevie
+			torekov
+			västra karup
+			östra karup
+		malmö kommun
+			bunkeflostrand
+			malmö
+			oxie
+			skumparp
+			tygelsjö
+			vintrie
+		lund kommun
+			dalby
+			genarp
+			lund
+			revingeby
+			stångby
+			södra sandby
+			torna hällestad
+			vallkärra
+			veberöd
+		landskrona kommun
+			annelöv
+			asmundtorp
+			glumslöv
+			häljarp
+			härslöv
+			kvärlöv
+			landskrona
+			saxtorpsskogen
+			tuna
+		helsingborg kommun
+			allerum
+			domsten
+			fleninge
+			gantofta
+			hasslarp
+			helsingborg
+			hittarp
+			kattarp
+			mörarp
+			påarp och bårslöv
+			rydebäck
+			tånga och rögle
+			utvälinge
+			vallåkra
+			ödåkra
+		höganäs kommun
+			arild
+			farhult
+			höganäs
+			ingelsträde
+			jonstorp
+			mjöhult
+			mölle
+			viken
+		eslöv kommun
+			billinge
+			eslöv
+			flyinge
+			gårdstånga
+			harlösa
+			hurva
+			kungshult
+			löberöd
+			marieholm
+			stehag
+			stockamöllan
+			väggarp
+			örtofta
+		ystad kommun
+			glemmingebro
+			hedeskoga
+			köpingebro
+			löderup
+			nybrostrand
+			rynge och vallösa
+			stora herrestad
+			svarte
+			sövestad
+			ystad
+		trelleborg kommun
+			alstad
+			anderslöv
+			beddingestrand
+			klagstorp
+			kurland
+			skegrie
+			smygehamn
+			trelleborg
+			västra tommarp
+		kristianstad kommun
+			arkelstorp
+			balsby
+			bjärlöv
+			bäckaskog
+			degeberga
+			everöd
+			fjälkinge
+			färlöv
+			gärds köpinge
+			hammar
+			huaröd
+			kristianstad
+			linderöd
+			nyehusen och furuboda
+			rinkaby
+			tollarp
+			viby
+			vittskövle
+			vånga
+			yngsjö
+			åhus
+			önnestad
+			österslöv
+			östra sönnarslöv
+		simrishamn kommun
+			baskemölla
+			borrby
+			brantevik
+			gärsnäs
+			hammenhög
+			kivik
+			sankt olof
+			simrishamn
+			skillinge
+			vik
+			vitaby
+			östra tommarp
+			östra vemmerlöv
+		ängelholm kommun
+			havsbaden
+			hjärnarp
+			lerbäckshult och tullstorp
+			margretetorp
+			munka-ljungby
+			strövelstorp
+			svenstorp
+			toarp och tåstarp
+			ängelholm
+			össjö
+		hässleholm kommun
+			ballingslöv
+			bjärnum
+			emmaljunga
+			finja
+			hässleholm
+			hästveda
+			mala
+			röke
+			sjörröd
+			stoby
+			sösdala
+			tormestorp
+			tyringe
+			vankiva
+			vinslöv
+			vittsjö
+			västra torup
+	hallands län
+		hylte kommun
+			hyltebruk
+			kinnared
+			landeryd
+			rydöbruk
+			torup
+			unnaryd
+		halmstad kommun
+			eldsberga
+			frösakull
+			getinge
+			gullbrandstorp
+			gullbranna
+			halmstad
+			harplinge
+			haverdal
+			holm
+			kvibille
+			laxvik
+			oskarström
+			sennan
+			simlångsdalen
+			skedala
+			steninge
+			trönninge
+			villshärad
+			åled
+		laholm kommun
+			genevad
+			hasslöv
+			hishult
+			knäred
+			laholm
+			lilla tjärby
+			mellbystrand
+			ränneslöv
+			skottorp
+			vallberga
+			veinge
+			våxtorp
+			ysby
+		falkenberg kommun
+			bergagård
+			falkenberg
+			fegen
+			glommen
+			heberg
+			köinge
+			långasand och ugglarp
+			långås
+			morup
+			olofsbo
+			slöinge
+			ullared
+			vessigebro
+			vinberg
+			vinbergs kyrkby
+			årstad
+			älvsered
+			ätran
+		varberg kommun
+			bläshammar och trönningenäs
+			bua
+			getterön
+			himle
+			hunnestad
+			kullaberg och tvååker
+			kungsäter
+			nordvära och källstorp
+			rolfstorp
+			skällinge
+			skällåkra och lingome
+			tofta
+			tvååker
+			tångaberg
+			valinge
+			varberg
+			veddige
+			väröbacka
+			årnäs
+			åsby
+		kungsbacka kommun
+			buerås
+			fjärås kyrkby
+			fjärås station
+			frillesås
+			halla heberg
+			hjälm
+			kläppa
+			kungsbacka
+			onsala
+			röda holme
+			sätinge
+			vallda
+			västra hagen
+			åsa
+	västra götalands län
+		härryda kommun
+			eskilsby och snugga
+			hindås
+			hällingsjö
+			härryda
+			landvetter
+			mölnlycke
+			nya långenäs
+			rya
+			rävlanda
+			stora bugärde
+		partille kommun
+			jonsered
+			kåhög
+			öjersjö
+		öckerö kommun
+			björkö
+			fotö
+			hälsö
+			hönö och öckerö
+			kalvsund
+			källö-knippla
+			rörö
+		stenungsund kommun
+			jörlanda
+			spekeröd
+			stenungsund
+			stenungsön
+			stora höga
+			svartehallen
+			svenshögen
+			ucklum
+			ödsmål
+		tjörn kommun
+			bleket
+			djupvik och fagerfjäll
+			hjälteby
+			höviksnäs och myggenäs
+			klädesholmen
+			klövedal
+			kyrkesund
+			kållekärr
+			rönnäng
+			skärhamn
+		orust kommun
+			ellös
+			henån
+			höggeröd
+			mollösund
+			svanesund
+			varekil
+			vindön och töllås
+		sotenäs kommun
+			bovallstrand
+			hunnebostrand
+			kungshamn
+			malmön
+			smögen
+		munkedal kommun
+			dingle
+			hedekas
+			hällevadsholm
+			munkedal
+			torreby
+		tanum kommun
+			fjällbacka
+			grebbestad
+			hamburgsund
+			rabbalshede
+			tanumshede
+			östad
+		dals-ed kommun
+			ed
+		färgelanda kommun
+			färgelanda
+			högsäter
+			stigen
+			ödeborg
+		ale kommun
+			alvhem
+			nödinge-nol
+			skepplanda
+			surte
+			älvängen
+		lerum kommun
+			björboholm
+			gråbo
+			lerum
+			sjövik
+			slätthult
+			tollered
+			ytterstad
+			öxeryd
+		vårgårda kommun
+			horla
+			vårgårda
+			östadkulle
+		bollebygd kommun
+			bollebygd
+			fjällastorp
+			hultafors
+			olsfors
+			töllsjö
+		grästorp kommun
+			grästorp
+		essunga kommun
+			främmestad
+			jonslund
+			nossebro
+		karlsborg kommun
+			forsvik
+			karlsborg
+			mölltorp
+			undenäs
+		gullspång kommun
+			gullspång
+			hova
+			otterbäcken
+		tranemo kommun
+			ambjörnarp
+			dalstorp
+			grimsås
+			limmared
+			ljungsarp
+			länghem
+			nittorp
+			rosenlund
+			tranemo
+			uddebo
+		bengtsfors kommun
+			bengtsfors
+			billingsfors
+			bäckefors
+			dals långed
+			skåpafors
+		mellerud kommun
+			dals rostock
+			mellerud
+			åsensbruk
+		lilla edet kommun
+			göta
+			hjärtum
+			lilla edet
+			lilla edet västra
+			lödöse
+			nygård
+			torskog och svenseröd
+		mark kommun
+			berghem
+			björketorp
+			flyksnäs
+			fritsla
+			horred
+			hyssna
+			kinna
+			rydal
+			sätila
+			torestorp
+			ubbhult norra
+			öxabäck
+		svenljunga kommun
+			hillared
+			holsljunga
+			mjöbäck
+			sexdrega
+			svenljunga
+			östra frölunda
+			överlida
+		herrljunga kommun
+			herrljunga
+			ljung och annelund
+		vara kommun
+			arentorp
+			emtunga
+			jung
+			kvänum
+			larv
+			stora levene
+			tråvad
+			vara
+			vedum
+		götene kommun
+			götene
+			hällekis
+			källby
+			lundsbrunn
+		tibro kommun
+			fagersanna
+			tibro
+		töreboda kommun
+			moholm
+			töreboda
+			älgarås
+		göteborg kommun
+			angered
+			asperö
+			björlanda
+			brännö
+			donsö
+			göteborg
+			nolvik
+			nordöstra göteborg
+			olofstorp
+			stenared
+			styrsö
+			säve
+			torslanda
+			tumlehed
+			vrångö
+		mölndal kommun
+			björnaås
+			hällesåker
+			östra balltorp
+		kungälv kommun
+			arvidsvik
+			aröd och timmervik
+			diseröd
+			duvesjön
+			kareby och ringby
+			kode
+			kovikshamn och åkerhög
+			kungälv
+			kyrkeby och nereby
+			kärna
+			lundby och rogstorp
+			marstrand
+			risby
+			rörtången och ödsmåls mosse
+			signehög och norrmannebo
+			tjuvkil
+			ytterby
+			ödsmål och åsebyberg
+		lysekil kommun
+			brastad
+			fiskebäckskil
+			grundsund
+			lysekil
+			stångenäs och rixö
+		uddevalla kommun
+			ammenäs
+			fagerhult
+			hogstorp
+			kristevik och sundsandvik
+			kurveröd
+			lanesund och överby
+			ljungskile
+			sjöskogen och strand
+			smedseröd
+			strandskogen, restenäs och ulvesund
+			sundstrand
+			uddevalla
+			utby
+		strömstad kommun
+			kebal
+			rossö
+			skee
+			stare
+			strömstad
+		vänersborg kommun
+			brålanda
+			frändefors
+			katrinedal
+			nordkroken
+			vargön
+			vänersborg
+		trollhättan kommun
+			sjuntorp
+			trollhättan
+			upphärad
+			velanda
+			väne-åsaka
+		alingsås kommun
+			alingsås
+			färgens östra strand
+			gräfsnäs
+			hjälmared
+			ingared
+			långared
+			magra
+			sollebrunn
+			stora mellby
+			västerbodarna
+		borås kommun
+			aplared
+			borgstena
+			borås
+			bosnäs
+			bredared
+			dalsjöfors
+			dannike
+			fristad
+			frufällan och tosseryd
+			gånghester och målsryd
+			hedared
+			kinnarumma
+			rydboholm
+			rångedala
+			sandared
+			sandhult
+			sjömarken och viared
+			viskafors
+			äspered
+		ulricehamn kommun
+			blidsberg
+			dalum
+			gällstad
+			hulu
+			hökerum
+			marbäck
+			nitta
+			rånnaväg
+			timmele
+			trädet
+			ulricehamn
+			vegby
+		åmål kommun
+			fengersfors
+			tösse
+			åmål
+		mariestad kommun
+			lugnås
+			lyrestad
+			mariestad
+			sjötorp
+			ullervad
+		lidköping kommun
+			filsbäck
+			järpås
+			lidköping
+			lidköping norra
+			saleby
+			vinninga
+			örslösa
+		skara kommun
+			ardala
+			axvall
+			eggby
+			skara
+			varnhem
+		skövde kommun
+			igelstorp
+			lerdala
+			skultorp
+			skövde
+			stöpen
+			tidan
+			timmersdala
+			ulvåker
+			väring
+			värsås
+		hjo kommun
+			hjo
+			korsberga
+		tidaholm kommun
+			ekedalen
+			madängsholm
+			tidaholm
+		falköping kommun
+			falköping
+			floby
+			gudhem
+			kinnarp
+			kättilstorp
+			odensberg
+			stenstorp
+			torbjörntorp
+			vartofta
+			åsarp
+	värmlands län
+		kil kommun
+			fagerås
+			högboda
+			kil
+			östra stenåsen
+		eda kommun
+			charlottenberg
+			eda glasbruk
+			koppom
+			åmotfors
+		torsby kommun
+			oleby
+			stöllet
+			sysslebäck
+			torsby
+		storfors kommun
+			kyrksten
+			storfors
+		hammarö kommun
+			rud och ängen
+			skoghall
+			tye
+			vidöåsen
+		munkfors kommun
+			munkfors
+		forshaga kommun
+			deje
+			dyvelsten
+			forshaga
+		grums kommun
+			grums
+			segmon
+			slottsbron
+		årjäng kommun
+			töcksfors
+			årjäng
+		sunne kommun
+			lysvik
+			rottneros
+			sunne
+			uddheden
+			västra ämtervik
+		karlstad kommun
+			alster
+			blombacka
+			edsgatan och långenäs
+			edsvalla
+			edsvalla övre bruket
+			karlstad
+			molkom
+			skattkärr
+			skåre
+			vallargärdet
+			vålberg
+			väse
+			älvåker och råtorp
+		kristinehamn kommun
+			björneborg
+			bäckhammar
+			kristinehamn
+			ölme
+		filipstad kommun
+			filipstad
+			lesjöfors
+			nykroppa
+			persberg
+		hagfors kommun
+			ekshärad
+			geijersholm
+			hagfors
+			mjönäs
+			råda
+			sunnemo
+			uddeholm
+		arvika kommun
+			arvika
+			edane
+			gunnarskog
+			jössefors
+			klässbol
+			prästängen
+			sulvik
+		säffle kommun
+			svanskog
+			säffle
+			värmlandsbro
+	örebro län
+		lekeberg kommun
+			fjugesta
+			gropen
+			mullhyttan
+			vintrosa
+		laxå kommun
+			finnerödja
+			hasselfors
+			laxå
+		hallsberg kommun
+			hallsberg
+			hjortkvarn
+			pålsboda
+			sköllersta
+			vretstorp
+			östansjö
+		degerfors kommun
+			degerfors
+			svartå
+		hällefors kommun
+			grythyttan
+			hällefors
+		ljusnarsberg kommun
+			kopparberg
+			ställdalen
+		örebro kommun
+			askersby
+			ekeby-almby
+			garphyttan
+			glanshammar
+			hampetorp
+			hovsta
+			kilsmo
+			latorpsbruk
+			norra bro
+			odensbacken
+			stora mellösa
+			ölmbrotorp
+			örebro
+		kumla kommun
+			ekeby
+			kumla
+			åbytorp
+		askersund kommun
+			askersund
+			hammar
+			olshammar
+			rönneshytta
+			sänna
+			zinkgruvan
+			åmmeberg
+			åsbro
+		karlskoga kommun
+			karlskoga
+			valåsen och labbsand
+		nora kommun
+			gyttorp
+			nora
+			striberg
+			ås
+		lindesberg kommun
+			fellingsbro
+			frövi
+			gusselby
+			lindesberg
+			ramsberg
+			rockhammar
+			storå
+			stråssa
+			vedevåg
+	västmanlands län
+		skinnskatteberg kommun
+			riddarhyttan
+			skinnskatteberg
+		surahammar kommun
+			ramnäs
+			surahammar
+			virsbo
+		kungsör kommun
+			kungsör
+			valskog
+		hallstahammar kommun
+			hallstahammar
+			kolbäck
+			lustigkulla och gröndal
+			näs
+			strömsholm
+			sörstafors
+		norberg kommun
+			norberg
+		västerås kommun
+			barkarö
+			dingtuna
+			enhagen-ekbacken
+			harkie
+			hustahöjden
+			irsta
+			kvicksund
+			kärsta och bredsdal
+			lycksta
+			malmen
+			munga
+			skultuna
+			tidö-lindö
+			tillberga
+			tortuna
+			västerås
+			örtagården
+		sala kommun
+			möklinta
+			ransta
+			sala
+			salbohed
+			sätra brunn
+			västerfärnebo
+		fagersta kommun
+			fagersta
+			hedkärra
+		köping kommun
+			kolsva
+			köping
+			munktorp
+		arboga kommun
+			arboga
+			götlunda
+			medåker
+	dalarnas län
+		vansbro kommun
+			grönalid
+			heden och skansbacken
+			järna
+			skålö
+			vansbro
+			äppelbo
+		malung-sälen kommun
+			lima
+			limedsforsen
+			malung
+			malungsfors
+			sälen
+			transtrand
+		gagnef kommun
+			björbo
+			bäsna
+			djurås
+			floda / dala-floda
+			gagnef
+			mockfjärd
+			sifferbo
+		leksand kommun
+			alvik
+			djura
+			hjortnäs och sunnanäng
+			häradsbygden
+			insjön
+			leksand
+			siljansnäs
+			tällberg
+			västanvik
+		rättvik kommun
+			boda
+			furudal
+			gulleråsen
+			nedre gärdsjö
+			nittsjö, sätra och backa
+			rättvik
+			vikarbyn
+		orsa kommun
+			orsa
+			skattungbyn
+		älvdalen kommun
+			brunnsberg
+			evertsberg
+			idre
+			rot
+			särna
+			västermyckeläng
+			åsen
+			älvdalen
+		smedjebacken kommun
+			hagge
+			smedjebacken
+			söderbärke
+			vad
+		mora kommun
+			bonäs
+			gesunda
+			mora
+			nusnäs
+			selja
+			sollerön
+			stenis och vika
+			venjan
+			vinäs
+			våmhus
+		falun kommun
+			aspeboda
+			bengtsheden
+			bjursås
+			danholn
+			enviken
+			falun
+			gamla berget och korsgården
+			grycksbo
+			karlsbyheden och blixbo
+			linghed
+			stennäset
+			sundborn
+			svärdsjö
+			sågmyra
+			toftbyn
+			vika
+			österå och hökviken
+			övertänger
+		borlänge kommun
+			borlänge
+			halvarsgårdarna
+			idkerberget
+			norr amsberg
+			ornäs
+			repbäcken
+			romme
+			torsång
+		säter kommun
+			enbacka och mora
+			naglarby
+			skedvi kyrkby
+			solvarbo
+			säter
+		hedemora kommun
+			garpenberg
+			hedemora
+			långshyttan
+			vikmanshyttan
+			västerby
+		avesta kommun
+			avesta och krylbo
+			folkärna
+			fors
+			horndal
+			nordanö
+		ludvika kommun
+			blötberget
+			fredriksberg västra
+			fredriksberg östra
+			gonäs
+			grängesberg
+			grängesberg västra
+			håksberg
+			ludvika
+			norrbo och västansjö
+			nyhammar
+			saxdalen
+			sunnansjö
+			sörvik
+	gävleborgs län
+		ockelbo kommun
+			lingbo
+			ockelbo
+			åmot
+		hofors kommun
+			hofors
+			robertsholm
+			torsåker
+		ovanåker kommun
+			alfta
+			edsbyn
+			roteberg
+			runemo
+			viksjöfors
+		nordanstig kommun
+			bergsjö
+			gnarp
+			harmånger
+			hassela
+			ilsbo
+			jättendal
+			stocka
+			strömsbruk
+		ljusdal kommun
+			färila
+			hybo
+			järvsö
+			lillhaga
+			ljusdal
+			los
+			tallåsen
+		gävle kommun
+			berg
+			bergby
+			björke
+			bönan
+			forsbacka
+			gävle
+			harkskär och utvalnäs
+			hedesunda
+			lindbacka, källhagen och fredriksskans
+			lund
+			norrsundet
+			sälgsjön
+			trödje
+			valbo
+			åbyggeby
+			överhärde
+		sandviken kommun
+			hammarby
+			hillsta och se
+			jäderfors
+			järbo
+			kungsgården
+			sandviken
+			storvik
+			västerberg
+			årsunda
+			åshammar
+			östanå
+			österfärnebo
+		söderhamn kommun
+			bergvik
+			klapparvik och källvik
+			ljusne
+			marmaskogen
+			marmaverken
+			mohed
+			sandarne
+			söderhamn
+			vad, åsbacka och långrör
+			vallvik
+			vannsätter
+		bollnäs kommun
+			arbrå
+			bollnäs
+			freluga
+			kilafors
+			lottefors
+			rengsjö
+			segersta
+			sibo
+			vallsta
+		hudiksvall kommun
+			delsbo
+			enånger
+			fredriksfors
+			friggesund
+			hudiksvall
+			iggesund
+			njutånger
+			näsbyn
+			näsviken
+			sörforsa
+	västernorrlands län
+		ånge kommun
+			alby
+			ljungaverk och fränsta
+			torpshammar
+			ånge
+		timrå kommun
+			bergeforsen
+			laggarberg
+			stavreviken
+			söråker
+			timrå
+		härnösand kommun
+			härnösand
+			ramvik
+			älandsbro
+		sundsvall kommun
+			ankarsvik
+			hartungviken och spikarna
+			hovid
+			indal
+			klingsta och allsta
+			kovland
+			kvissleby
+			liden
+			lucksta
+			matfors
+			nedansjö
+			njurundabommen
+			selånger
+			slädaviken och åssjön
+			stockvik
+			stöde och fanbyn
+			sundsvall
+			svartvik
+			vattjom
+			vi
+			viforsen och tunbyn
+			vikarbodarna och skatan
+		kramfors kommun
+			bollstabruk
+			docksta
+			herrskog
+			klockestrand
+			kramfors
+			lugnvik
+			lunde
+			mjällom
+			nordingrå
+			nyland
+			sandslån
+			ullånger
+		sollefteå kommun
+			junsele
+			långsele
+			näsåker
+			ramsele
+			sollefteå
+		örnsköldsvik kommun
+			billsta
+			bjästa
+			björna
+			bredbyn
+			gideå
+			husum
+			köpmanholmen
+			långviksmon
+			mellansel
+			moliden
+			sidensjö
+			åmynnet
+			örnsköldsvik
+	jämtlands län
+		ragunda kommun
+			hammarstrand
+			stugun
+			västra bispgården
+			östra bispgården
+		bräcke kommun
+			bräcke
+			gällö
+			kälarne
+			pilgrimstad
+		krokom kommun
+			aspås
+			dvärsätt
+			föllinge
+			hissmofors
+			krokom
+			nälden
+			trångsviken
+			vaplan
+			ås
+			åssjöns norra strand
+			änge
+		strömsund kommun
+			backe
+			gäddede
+			hammerdal
+			hoting
+			näsviken
+			rossön
+			strömsund
+		åre kommun
+			björnänge
+			hallen
+			järpen
+			mörsil
+			undersåker
+			åre
+		berg kommun
+			hackås
+			hoverberg
+			klövsjö
+			myrviken
+			rätan
+			svenstavik
+			åsarna
+		härjedalen kommun
+			bruksvallarna
+			funäsdalen
+			hede
+			lillhärdal
+			norr-hede
+			sveg
+			ulvkälla
+			vemdalen
+			ytterhogdal
+		östersund kommun
+			fåker
+			hara
+			häggenås
+			lit
+			lunne
+			marieby
+			målsta och böle
+			orrviken
+			tandsbyn
+			ängsmon
+			östersund
+	västerbottens län
+		nordmaling kommun
+			lögdeå
+			nordmaling
+			rundvik
+		bjurholm kommun
+			bjurholm
+		vindeln kommun
+			hällnäs
+			tvärålund
+			vindeln
+		robertsfors kommun
+			bygdeå
+			robertsfors
+			ånäset
+		norsjö kommun
+			bastuträsk
+			norsjö
+		malå kommun
+			malå
+		storuman kommun
+			hemavan/bierke
+			stensele
+			storuman
+			tärnaby
+		sorsele kommun
+			sorsele
+		dorotea kommun
+			dorotea
+		vännäs kommun
+			vännäs
+			vännäsby
+		vilhelmina kommun
+			vilhelmina
+		åsele kommun
+			åsele
+		umeå kommun
+			botsmark
+			brännland
+			brännäset och boviken
+			bullmark
+			ersmark
+			flurkmark
+			hissjön
+			holmsund
+			hörnefors
+			innertavle
+			norrmjöle
+			obbola
+			röbäck
+			stöcke
+			stöcksjö
+			sävar
+			sörfors
+			sörmjöle
+			tavelsjö
+			tomtebo
+			täfteå
+			umeå
+			yttersjö
+			överboda
+		lycksele kommun
+			hedlunda
+			lycksele
+			rusksele
+		skellefteå kommun
+			boliden
+			bureå
+			burträsk
+			bygdsiljum
+			byske
+			drängsmark
+			ersmark
+			frostkåge
+			jörn
+			klutmark
+			kusmark
+			kåge
+			lövånger
+			medle
+			myckle
+			ostvik
+			skelleftehamn
+			skellefteå
+			södra bergsbyn och stackgrönnan
+			ursviken
+			örviken
+	norrbottens län
+		arvidsjaur kommun
+			arvidsjaur
+			glommersträsk
+		arjeplog kommun
+			arjeplog
+		jokkmokk kommun
+			jokkmokk
+			porjus
+			vuollerim
+		överkalix kommun
+			svartbyn
+			tallvik
+			överkalix
+		kalix kommun
+			bredviken
+			båtskärsnäs
+			gammelgården
+			kalix
+			nyborg
+			påläng
+			risögrund
+			sangis
+			töre
+		övertorneå kommun
+			hedenäset
+			juoksengi
+			övertorneå
+		pajala kommun
+			junosuando
+			kangos
+			korpilombolo
+			pajala
+		gällivare kommun
+			gällivare
+			hakkas
+			koskullskulle
+			malmberget västra
+			malmberget östra
+			tjautjas/cavccas
+		älvsbyn kommun
+			korsträsk
+			vidsel
+			vistträsk
+			älvsbyn
+		luleå kommun
+			antnäs
+			avan
+			bensbyn
+			bergnäset
+			brändön
+			bälinge
+			ersnäs
+			gammelstaden
+			hällbäcken och sinksundet
+			jämtön
+			kallax
+			karlsvik
+			klöverträsk
+			luleå
+			måttsund
+			persön
+			rutvik
+			råneå
+			sundom
+			södra sunderbyn
+			ängesbyn
+		piteå kommun
+			bergsviken
+			blåsmark
+			böle
+			hemmingsmark
+			hortlax
+			jävre
+			lillpite
+			norrfjärden
+			piteå
+			roknäs
+			rosvik
+			sjulsmark
+			svartudden
+			svensbyn
+			övermarken och maran
+		boden kommun
+			boden
+			harads
+			sävast
+			trångforsen och heden
+			unbyn
+			vittjärv
+		haparanda kommun
+			haparanda
+			nikkala
+			seskarö
+		kiruna kommun
+			jukkasjärvi
+			karesuando
+			kiruna
+			kuttainen
+			svappavaara
+			tuolluvaara / duollovárri
+			vittangi
