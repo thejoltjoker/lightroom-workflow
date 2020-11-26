@@ -1,0 +1,17 @@
+s = {
+	id = "AD99D6B8-055F-4C68-B3EA-7CA579291A8E",
+	internalName = "honor10",
+	title = "honor10",
+	type = "Metadata",
+	value = {
+		["com.adobe.caption"] = "Taken with Huawei Honor 10",
+		["com.adobe.copyright"] = "Johannes Andersson",
+		["com.adobe.copyrightInfoURL"] = "http://thejoltjoker.com",
+		["com.adobe.copyrightState"] = true,
+		["com.adobe.creator"] = "Johannes Andersson",
+		["com.adobe.keywords"] = "phone,honor 10, huawei",
+		["com.adobe.title"] = "Taken with Huawei Honor 10",
+		uuid = "EF64E7BB-960D-4C2B-B7AF-E144EACB32FE",
+	},
+	version = 0,
+}
