@@ -1,0 +1,48 @@
+s = {
+	id = "8F4AB9A6-5661-4805-B807-015F3C8A29E2",
+	internalName = "noTitle",
+	title = "noTitle",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = false,
+		columnBrowserDesc = {
+			{
+				criteria = "dateHierarchy",
+			},
+			{
+				criteria = "camera",
+			},
+			{
+				criteria = "lens",
+			},
+			{
+				criteria = "label",
+			},
+		},
+		customLabel = false,
+		edit = "<nil>",
+		filtersActive = false,
+		gpsLocation = false,
+		gpsLocationNELatitude = "<nil>",
+		gpsLocationNELongitude = "<nil>",
+		gpsLocationSWLatitude = "<nil>",
+		gpsLocationSWLongitude = "<nil>",
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = "<nil>",
+		noLabel = false,
+		pick = "<nil>",
+		ratingOp = ">=",
+		searchOp = "empty",
+		searchString = "",
+		searchStringActive = true,
+		searchTarget = "title",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}

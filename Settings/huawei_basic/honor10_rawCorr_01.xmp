@@ -1,10 +1,11 @@
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00        ">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
    crs:UUID="B10EC1DED8A94713B361F9F03428F2A3"
+   crs:SupportsAmount2="False"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -12,10 +13,12 @@
    crs:SupportsNormalDynamicRange="True"
    crs:SupportsSceneReferred="True"
    crs:SupportsOutputReferred="True"
+   crs:RequiresRGBTables="False"
    crs:CameraModelRestriction=""
    crs:Copyright=""
    crs:ContactInfo=""
-   crs:Version="12.2.1"
+   crs:Version="14.4"
+   crs:CompatibleVersion="234881024"
    crs:ProcessVersion="11.0"
    crs:HasSettings="True">
    <crs:Name>
@@ -35,7 +38,7 @@
    </crs:SortName>
    <crs:Group>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">phone</rdf:li>
+     <rdf:li xml:lang="x-default">huawei_basic</rdf:li>
     </rdf:Alt>
    </crs:Group>
    <crs:Description>
@@ -43,66 +46,73 @@
      <rdf:li xml:lang="x-default"/>
     </rdf:Alt>
    </crs:Description>
-   <crs:CircularGradientBasedCorrections>
+   <crs:MaskGroupBasedCorrections>
     <rdf:Seq>
      <rdf:li>
       <rdf:Description
        crs:What="Correction"
-       crs:CorrectionAmount="1.000000"
+       crs:CorrectionAmount="1"
        crs:CorrectionActive="true"
-       crs:LocalExposure="0.000000"
-       crs:LocalSaturation="0.000000"
-       crs:LocalContrast="0.000000"
-       crs:LocalClarity="0.000000"
-       crs:LocalSharpness="0.000000"
-       crs:LocalBrightness="0.000000"
-       crs:LocalToningHue="240.000000"
-       crs:LocalToningSaturation="0.000000"
-       crs:LocalExposure2012="0.067500"
-       crs:LocalContrast2012="0.000000"
-       crs:LocalHighlights2012="0.000000"
-       crs:LocalShadows2012="0.000000"
-       crs:LocalWhites2012="0.000000"
-       crs:LocalBlacks2012="0.000000"
-       crs:LocalClarity2012="0.000000"
-       crs:LocalDehaze="0.000000"
-       crs:LocalLuminanceNoise="0.000000"
-       crs:LocalMoire="0.000000"
-       crs:LocalDefringe="0.000000"
-       crs:LocalTemperature="0.140000"
-       crs:LocalTint="0.200000"
-       crs:LocalTexture="0.000000">
+       crs:CorrectionName="Mask 1"
+       crs:CorrectionSyncID="5FF20C4C97DD4C62B5AE88A855552891"
+       crs:LocalExposure="0"
+       crs:LocalSaturation="0"
+       crs:LocalContrast="0"
+       crs:LocalClarity="0"
+       crs:LocalSharpness="0"
+       crs:LocalBrightness="0"
+       crs:LocalToningHue="240"
+       crs:LocalToningSaturation="0"
+       crs:LocalExposure2012="0.0675"
+       crs:LocalContrast2012="0"
+       crs:LocalHighlights2012="0"
+       crs:LocalShadows2012="0"
+       crs:LocalWhites2012="0"
+       crs:LocalBlacks2012="0"
+       crs:LocalClarity2012="0"
+       crs:LocalDehaze="0"
+       crs:LocalLuminanceNoise="0"
+       crs:LocalMoire="0"
+       crs:LocalDefringe="0"
+       crs:LocalTemperature="0.14"
+       crs:LocalTint="0.2"
+       crs:LocalTexture="0">
       <crs:CorrectionMasks>
        <rdf:Seq>
         <rdf:li
          crs:What="Mask/CircularGradient"
-         crs:MaskValue="1.000000"
+         crs:MaskActive="true"
+         crs:MaskName="Radial Gradient 1"
+         crs:MaskBlendMode="0"
+         crs:MaskInverted="true"
+         crs:MaskSyncID="420A1D01010D4EE9A1954D15D8C0A54D"
+         crs:MaskValue="1"
          crs:Top="0.114613"
          crs:Left="0.079696"
          crs:Bottom="0.946729"
          crs:Right="0.933851"
-         crs:Angle="0.000000"
-         crs:Midpoint="+50"
+         crs:Angle="0"
+         crs:Midpoint="50"
          crs:Roundness="0"
-         crs:Feather="+50"
+         crs:Feather="50"
          crs:Flipped="false"
-         crs:Version="+2"/>
+         crs:Version="2"/>
        </rdf:Seq>
       </crs:CorrectionMasks>
       <crs:CorrectionRangeMask
-       crs:Version="+2"
+       crs:Version="2"
        crs:Type="0"
-       crs:ColorAmount="0.500000"
-       crs:LumMin="0.000000"
-       crs:LumMax="1.000000"
-       crs:LumFeather="0.500000"
-       crs:DepthMin="0.000000"
-       crs:DepthMax="1.000000"
-       crs:DepthFeather="0.500000"/>
+       crs:ColorAmount="0.5"
+       crs:LumMin="0"
+       crs:LumMax="1"
+       crs:LumFeather="0.5"
+       crs:DepthMin="0"
+       crs:DepthMax="1"
+       crs:DepthFeather="0.5"/>
       </rdf:Description>
      </rdf:li>
     </rdf:Seq>
-   </crs:CircularGradientBasedCorrections>
+   </crs:MaskGroupBasedCorrections>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

@@ -1,0 +1,26 @@
+s = {
+	id = "C7DC5C9F-A9FD-4FC8-8D06-8BDC32AFDDEC",
+	internalName = "smartPublishFolder",
+	title = "smartPublishFolder",
+	type = "LibrarySmartCollection",
+	value = {
+		{
+			criteria = "rating",
+			operation = ">=",
+			value = 1,
+		},
+		{
+			criteria = "labelColor",
+			operation = "==",
+			value = 3,
+		},
+		{
+			criteria = "all",
+			operation = "any",
+			value = "_2100_tagName",
+			value2 = "",
+		},
+		combine = "intersect",
+	},
+	version = 0,
+}

@@ -1,32 +1,39 @@
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00        ">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
    crs:UUID="91A5B2C7EF82508131E51204BF340E30"
-   crs:SupportsAmount="False"
+   crs:SupportsAmount2="True"
+   crs:SupportsAmount="True"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
    crs:SupportsHighDynamicRange="True"
    crs:SupportsNormalDynamicRange="True"
    crs:SupportsSceneReferred="True"
    crs:SupportsOutputReferred="True"
+   crs:RequiresRGBTables="False"
    crs:CameraModelRestriction=""
    crs:Copyright=""
    crs:ContactInfo=""
-   crs:Version="10.5"
+   crs:Version="14.4"
    crs:ProcessVersion="6.7"
-   crs:Saturation="+5"
-   crs:Sharpness="25"
-   crs:ShadowTint="0"
-   crs:RedHue="0"
-   crs:RedSaturation="+5"
-   crs:GreenHue="-7"
-   crs:GreenSaturation="+17"
-   crs:BlueHue="-7"
-   crs:BlueSaturation="+5"
+   crs:Contrast2012="+19"
+   crs:Clarity2012="+5"
    crs:Vibrance="+15"
+   crs:Saturation="+5"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:Sharpness="25"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
    crs:HueAdjustmentRed="+7"
    crs:HueAdjustmentOrange="-7"
    crs:HueAdjustmentYellow="-5"
@@ -56,18 +63,22 @@
    crs:SplitToningHighlightHue="46"
    crs:SplitToningHighlightSaturation="16"
    crs:SplitToningBalance="+37"
-   crs:ParametricShadows="0"
-   crs:ParametricDarks="0"
-   crs:ParametricLights="0"
-   crs:ParametricHighlights="0"
-   crs:ParametricShadowSplit="25"
-   crs:ParametricMidtoneSplit="50"
-   crs:ParametricHighlightSplit="75"
-   crs:SharpenRadius="+1.0"
-   crs:SharpenDetail="25"
-   crs:SharpenEdgeMasking="0"
-   crs:Contrast2012="+19"
-   crs:Clarity2012="+5"
+   crs:ColorGradeMidtoneHue="0"
+   crs:ColorGradeMidtoneSat="0"
+   crs:ColorGradeShadowLum="0"
+   crs:ColorGradeMidtoneLum="0"
+   crs:ColorGradeHighlightLum="0"
+   crs:ColorGradeBlending="100"
+   crs:ColorGradeGlobalHue="0"
+   crs:ColorGradeGlobalSat="0"
+   crs:ColorGradeGlobalLum="0"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="+5"
+   crs:GreenHue="-7"
+   crs:GreenSaturation="+17"
+   crs:BlueHue="-7"
+   crs:BlueSaturation="+5"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName2012="Custom"
    crs:CameraProfile="Camera Standard"
@@ -89,7 +100,7 @@
    </crs:SortName>
    <crs:Group>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">user_toning</rdf:li>
+     <rdf:li xml:lang="x-default">canon_toning</rdf:li>
     </rdf:Alt>
    </crs:Group>
    <crs:Description>
@@ -126,8 +137,6 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
-   <crs:Look
-    crs:Name=""/>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

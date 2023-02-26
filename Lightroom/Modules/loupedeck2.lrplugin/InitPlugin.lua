@@ -247,6 +247,9 @@ LrTasks.startAsyncTask(function()
                     if senderConnected then
                         sendEvent("DevelopToolChanged", currentTool)
                     end
+                    if newTool == "masking" then
+                        startMaskingUpdater()
+                    end
                 end
             else
                 currentTool = ''
@@ -270,3 +273,65 @@ LrTasks.startAsyncTask(function()
     end)
 
 end)
+
+local json2 = require("Json2")
+
+local previousMasks = ""
+local selectedMaskId = ""
+local selectedMaskToolId = ""
+
+function startMaskingUpdater()
+
+    LrTasks.startAsyncTask(function()
+
+        LrFunctionContext.callWithContext('loupedeck2', function(context)
+
+            if senderConnected then
+                sendEvent('MasksChanged', json2:encode(LrDevelopController.getAllMasks()))
+            end
+
+            while LrDevelopController.getSelectedTool() == 'masking' do
+                checkMasksAndCallEvents()            
+                LrTasks.sleep(1)
+            end
+
+            previousMasks = nil
+            selectedMaskId = nil
+            selectedMaskToolId = nil
+
+        end)
+        
+    end)
+
+end
+
+function checkMasksAndCallEvents()
+
+    local currentMasks = json2:encode(LrDevelopController.getAllMasks()) 
+    if currentMasks == nil then currentMasks = "" end
+    if currentMasks ~= previousMasks then
+        previousMasks = currentMasks
+        if senderConnected then
+            sendEvent('MasksChanged', currentMasks)
+        end
+    end
+
+    local newMaskId = LrDevelopController.getSelectedMask()
+    if newMaskId == nil then newMaskId = "" end
+    if selectedMaskId ~= newMaskId then
+        selectedMaskId = newMaskId
+        if senderConnected then
+            sendEvent('SelectedMaskChanged', tostring(newMaskId)) 
+        end
+    end
+
+    local newMaskToolId = LrDevelopController.getSelectedMaskTool() 
+    if newMaskToolId == nil then newMaskToolId = "" end
+    if selectedMaskToolId ~= newMaskToolId then
+        selectedMaskToolId = newMaskToolId
+        if senderConnected then
+            sendEvent('SelectedMaskToolChanged', tostring(selectedMaskToolId)) 
+        end
+    end
+
+end

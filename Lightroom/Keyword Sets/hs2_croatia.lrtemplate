@@ -1,0 +1,18 @@
+s = {
+	id = "CDF5AFD6-35BF-4822-83B6-338C9A942C94",
+	internalName = "hs2_croatia",
+	title = "hs2_croatia",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "behind the scenes",
+		shortcut2title = "making of",
+		shortcut3title = "croatia",
+		shortcut4title = "on set",
+		shortcut5title = "film",
+		shortcut6title = "tv show",
+		shortcut7title = "hamilton",
+		shortcut8title = "hamilton season 2",
+		shortcut9title = "film production",
+	},
+	version = 0,
+}

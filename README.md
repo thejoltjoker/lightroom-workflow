@@ -186,7 +186,7 @@ Here's an example of the folder structure I use and will refer to in this docume
 
 ### Color Tags
 
-💙 - _unassigned_
+💙 - Metadata added, no star ratings.
 
 💜 - _unassigned_
 
@@ -281,12 +281,13 @@ One main publish service for the catalog in output folder. If main year catalog 
   - Color space: sRGB
 - Image sizing
   - Don't resize
+  - Or x megapixels, don't enlarge
   - 72 ppi
 - Output sharpening
   - Sharpen for: Screen
   - Amount: Standard
 - Metadata
-  - Include all metadata
+  - All except camera and camera raw info
   - Remove person and location info
 
 ### Organization
@@ -295,6 +296,7 @@ One main publish service for the catalog in output folder. If main year catalog 
    - Keyword `YYMM_description`
    - Rating at least one star
    - Green color label
+   - Title is not empty
 2. Create new keyword with same name as collection.
 3. Apply keyword to all images from shoot.
 4. Use ratings and color labels to decide which ones to publish.

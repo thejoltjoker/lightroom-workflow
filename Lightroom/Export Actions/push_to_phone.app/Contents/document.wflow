@@ -61,7 +61,7 @@
 					<key>COMMAND_STRING</key>
 					<string>#!/bin/bash
 for f in $@; do
-	/Users/johannes/.local/share/virtualenvs/python-7tb8eIcj/bin/python /Users/johannes/Dropbox/code/python/misc/pushbullet.py -f $f lightroom
+	/Users/johannes/.local/share/virtualenvs/python-FyIHVJI9/bin/python /Users/johannes/Dropbox/dev/repos/python/misc/pushbullet.py -f $f lightroom
 done
 </string>
 					<key>CheckedForUserDefaultShell</key>
@@ -176,7 +176,7 @@ done
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>529.000000:252.000000</string>
+				<string>309.000000:252.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>

@@ -25,6 +25,12 @@ Lightroom/Smart Collection Templates/Past Month.lrtemplate
 Lightroom/Smart Collection Templates/Past_Month.lrtemplate
 Lightroom/Smart Collection Templates/Without Keywords.lrtemplate
 Lightroom/Smart Collection Templates/Without_Keywords.lrtemplate
+Lightroom/Modules/loupedeck*
 
 # Locations
 Lightroom/Locations/iceClimbing
+Lightroom/Modules/Topaz Photo AI.lrplugin
+Lightroom/External Editor Presets/TopazDeNoiseAI.lrtemplate
+Lightroom/External Editor Presets/TopazGigapixelAI.lrtemplate
+Lightroom/External Editor Presets/TopazPhotoAI.lrtemplate
+Lightroom/External Editor Presets/TopazSharpenAI.lrtemplate

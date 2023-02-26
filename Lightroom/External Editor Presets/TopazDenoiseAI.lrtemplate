@@ -1,1 +1,12 @@
-/Applications/Topaz DeNoise AI/Topaz DeNoise AI.app/Contents/MacOS/../Resources/TopazDenoiseAI.lrtemplate
+s = {
+	id = "1410F8CD-C72A-4A82-8D40-F5E779AA14D9",
+	internalName = "Topaz DeNoise AI",
+	title = "Topaz DeNoise AI",
+	type = "ExternalEditor",
+	value = {
+		externalEditingFormat = "TIFF_None_16_ProPhotoRGB",
+		externalEditingFormat_dpi = 300,
+		externalEditorFullPath = "/Applications/Topaz DeNoise AI.app/Contents/MacOS/Topaz DeNoise AI",
+	},
+	version = 0,
+}

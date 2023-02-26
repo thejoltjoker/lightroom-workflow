@@ -36,24 +36,63 @@ prefs = {
 	},\
 }\
 ",
+	Adobe_successfulUpgrades1000000 = "pickle = {\
+	[\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2017/lightroom_2017_v004.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"D1A32B36-A3B8-4B6C-91E7-9F4535079F63\",\
+		upgraded = \"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2017/lightroom_2017_v005.lrcat\",\
+	},\
+	[\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2018/lr_classic_2018_v002.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"5FD9AA9B-C1BD-4FAB-9665-FCAE6FCA696C\",\
+		upgraded = \"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2018/lr_classic_2018_v003.lrcat\",\
+	},\
+	[\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2019/lr_classic_2019_v002.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"0C45A8A1-DEBB-4864-A806-CC4B36500299\",\
+		upgraded = \"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2019/lr_classic_2019_v003.lrcat\",\
+	},\
+	[\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2020/lr_classic_2020_v002.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"88CFCCCC-4182-491D-B820-29B48202C649\",\
+		upgraded = \"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2020/lr_classic_2020_v003.lrcat\",\
+	},\
+	[\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2012\\\\lr_classic_2012_v005.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"21C27188-17F9-4F3C-963B-FF33AA9AF50A\",\
+		upgraded = \"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2012\\\\lr_classic_2012_v006.lrcat\",\
+	},\
+	[\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2015\\\\lr_classic_2015_v008.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"1418EDE8-F7F2-4CFA-98C4-B99BE2FB65A3\",\
+		upgraded = \"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2015\\\\lr_classic_2015_v009.lrcat\",\
+	},\
+	[\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2016\\\\lightroom_2016_v003.lrcat\"] = {\
+		catalogType = \"lr\",\
+		id = \"C77278A6-21CD-41ED-855F-DB1173F1EB78\",\
+		upgraded = \"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2016\\\\lightroom_2016_v004.lrcat\",\
+	},\
+}\
+",
 	AgApplication_HasRegisteredAutoPlay = true,
 	AgColorPlopup_Phase = 0,
 	AgColorPlopup_RampAxis = "s",
 	AgColorPlopup_Space = "HSL",
 	AgColorPlopup_WebColorField = false,
+	AgCommonUI_backgroundShade = 0.5,
 	AgDevelop_HSLTuningShowColorAqua = false,
 	AgDevelop_HSLTuningShowColorBlue = false,
 	AgDevelop_HSLTuningShowColorGreen = false,
 	AgDevelop_HSLTuningShowColorMagenta = false,
 	AgDevelop_HSLTuningShowColorOrange = false,
 	AgDevelop_HSLTuningShowColorPurple = false,
-	AgDevelop_HSLTuningShowColorRed = true,
+	AgDevelop_HSLTuningShowColorRed = "Red",
 	AgDevelop_HSLTuningShowColorYellow = false,
 	AgDevelop_HSLTuningShowComponentHue = false,
 	AgDevelop_HSLTuningShowComponentLuminance = false,
-	AgDevelop_HSLTuningShowComponentSaturation = true,
+	AgDevelop_HSLTuningShowComponentSaturation = false,
 	AgDevelop_HSLTuningWhichColor = "Red",
-	AgDevelop_HSLTuningWhichComponent = "Saturation",
+	AgDevelop_HSLTuningWhichComponent = "HSL",
 	AgDevelop_HSLTuningWhichType = "by_hsl",
 	AgDevelop_adjustPanel_Collapsed = false,
 	AgDevelop_autoCropGrid = true,
@@ -76,7 +115,7 @@ prefs = {
 	AgDevelop_detailPanel_ExpansionState = 0,
 	AgDevelop_dustSpotFeather = 0,
 	AgDevelop_dustSpotOpacity = 1,
-	AgDevelop_dustSpotRadius = 0.01,
+	AgDevelop_dustSpotRadius = 0.00278458828,
 	AgDevelop_editPointCurve = false,
 	AgDevelop_effectsPanel_Collapsed = false,
 	AgDevelop_effectsPanel_ExpansionState = 0,
@@ -84,7 +123,7 @@ prefs = {
 	AgDevelop_highlightClippingOnMouseOver = true,
 	AgDevelop_histogramPanel_ExpansionState = 1,
 	AgDevelop_leftPanels_inSoloMode = false,
-	AgDevelop_lensCorrectionsPanel_Collapsed = true,
+	AgDevelop_lensCorrectionsPanel_Collapsed = false,
 	AgDevelop_lensCorrectionsPanel_ExpansionState = 0,
 	AgDevelop_localizedAdvancedMode = false,
 	AgDevelop_localizedAutoMask = false,
@@ -95,6 +134,8 @@ prefs = {
 	AgDevelop_localizedBrushFlow = 1,
 	AgDevelop_localizedBrushSize = 0.15,
 	AgDevelop_localizedBrushStrokeOpacity = 1,
+	AgDevelop_localizedCircularGradientFeather = 50,
+	AgDevelop_localizedCircularGradientInvertMask = true,
 	AgDevelop_localizedClarity2012Last = 0.5,
 	AgDevelop_localizedClarityLast = 0.5,
 	AgDevelop_localizedContrast2012Last = 0.25,
@@ -104,6 +145,7 @@ prefs = {
 	AgDevelop_localizedExposureLast = 0.25,
 	AgDevelop_localizedGradientAmount = 0.5,
 	AgDevelop_localizedHighlights2012Last = 0.25,
+	AgDevelop_localizedHueLast = 0,
 	AgDevelop_localizedLocalDehazeLast = 0.25,
 	AgDevelop_localizedLocalTextureLast = 0.25,
 	AgDevelop_localizedLuminanceNoiseLast = 0.4,
@@ -119,6 +161,7 @@ prefs = {
 	AgDevelop_localizedPaintExposure = 0,
 	AgDevelop_localizedPaintExposure2012 = 0.25,
 	AgDevelop_localizedPaintHighlights2012 = 0,
+	AgDevelop_localizedPaintHue = 0,
 	AgDevelop_localizedPaintLocalDehaze = 0,
 	AgDevelop_localizedPaintLocalTexture = 0,
 	AgDevelop_localizedPaintLuminanceNoise = 0,
@@ -172,7 +215,7 @@ prefs = {
 ",
 	AgDevelop_mixerPanel_Collapsed = false,
 	AgDevelop_mixerPanel_ExpansionState = 0,
-	AgDevelop_navigatorPanel_ExpansionState = 1,
+	AgDevelop_navigatorPanel_ExpansionState = 0,
 	AgDevelop_pointCurveEditor_ExpansionState = 0,
 	AgDevelop_presetsPanel_history_Collapsed = false,
 	AgDevelop_presetsPanel_presets_Collapsed = false,
@@ -203,6 +246,9 @@ prefs = {
 	AgDevelop_splitToningPanel_Collapsed = true,
 	AgDevelop_splitToningPanel_ExpansionState = 0,
 	AgDevelop_spotType = "heal",
+	AgDevelop_spotVisualizationEnabled = false,
+	AgDevelop_spotVisualizationEnabledState = false,
+	AgDevelop_spotVisualizationThreshold = 50,
 	AgDevelop_target = "activePhoto",
 	AgDevelop_targetAdjustment = "Exposure2012",
 	AgDevelop_targetToolSampleSize = "point",
@@ -210,17 +256,31 @@ prefs = {
 	AgDevelop_tonePanel_Collapsed = true,
 	AgDevelop_tonePanel_ExpansionState = 0,
 	AgDevelop_toolbar_revealedState = "normal",
-	AgDevelop_transformPanel_Collapsed = true,
+	AgDevelop_transformPanel_Collapsed = false,
+	AgDevelop_transformPanel_Enabled = true,
 	AgDevelop_transformPanel_ExpansionState = 0,
+	AgDialogs_currentDirectory = "T:\\media\\photos\\2010\\2010-02-28_forsta_doppet",
 	AgDocument_defaultModuleID = "com.adobe.ag.library",
-	AgDocument_moduleHost_firstPanelShowing = true,
+	AgDocument_moduleHost_firstPanelShowing = false,
 	AgDocument_moduleHost_lastPanelShowing = true,
 	AgDocument_moduleHost_lastPanelSize = 84,
 	AgDrawing_mirrorImageMode = false,
 	AgEditExternally_putInStack = true,
 	AgEditExternally_tokens = "{{image_name}}-Edit",
 	AgEventLoop_slowEventHandling = false,
+	AgExportDialog_com_adobe_ag_export_file_postProcessingSection_Collapsed = false,
+	AgExportDialog_dialogFrameResizable = AgRect( 535, 300, 1385, 889 ),
+	AgExportDialog_dialogFrameResizable_showCmd = 1,
+	AgExportDialog_exportLocationSection_Collapsed = false,
+	AgExportDialog_fileSettingsSection_Collapsed = false,
+	AgExportDialog_imageControlsSection_Collapsed = false,
+	AgExportDialog_metadataSection_Collapsed = false,
+	AgExportDialog_outputSharpeningSection_Collapsed = false,
+	AgExportDialog_tokenSection_Collapsed = false,
+	AgExportDialog_videoSection_Collapsed = false,
+	AgExportDialog_watermarkingSection_Collapsed = false,
 	AgExport_DNG_compatibilityV2 = 184680448,
+	AgExport_DNG_compatibilityV3 = 201588736,
 	AgExport_DNG_compressed = true,
 	AgExport_DNG_conversionMethod = "preserveRAW",
 	AgExport_DNG_embedCache = true,
@@ -228,71 +288,85 @@ prefs = {
 	AgExport_DNG_lossyCompression = false,
 	AgExport_DNG_previewSize = "medium",
 	AgExport_collisionHandling = "ask",
-	AgExport_embeddedMetadataOption = "all",
+	AgExport_embeddedMetadataOption = "allExceptCameraInfo",
 	AgExport_exportServiceProvider = "com.adobe.ag.export.file",
+	AgExport_exportServiceProviderTitle = "Hard Drive",
 	AgExport_export_bitDepth = 16,
+	AgExport_export_bitDepthOthers = 16,
 	AgExport_export_colorSpace = "sRGB",
-	AgExport_export_destinationPathSuffix = "Untitled Export",
-	AgExport_export_destinationType = "desktop",
-	AgExport_export_postProcessing = "doNothing",
-	AgExport_export_useSubfolder = true,
+	AgExport_export_colorSpaceJPEG = "sRGB",
+	AgExport_export_colorSpaceNonJPEG = "AdobeRGB",
+	AgExport_export_destinationPathSuffix = "",
+	AgExport_export_destinationType = "chooseLater",
+	AgExport_export_postProcessing = "revealInFinder",
+	AgExport_export_useParentFolder = false,
+	AgExport_export_useSubfolder = false,
 	AgExport_export_videoFileHandling = "include",
 	AgExport_export_videoFormat = "4e49434b-4832-3634-fbfb-fbfbfbfbfbfb",
 	AgExport_export_videoPreset = "original",
 	AgExport_extensionCase = "lowercase",
 	AgExport_format = "JPEG",
-	AgExport_includeFaceTagsAsKeywords = true,
-	AgExport_includeFaceTagsInIptc = true,
+	AgExport_includeFaceTagsAsKeywords = false,
+	AgExport_includeFaceTagsInIptc = false,
 	AgExport_includeVideoFiles = true,
 	AgExport_initialSequenceNumber = 1,
-	AgExport_jpeg_limitSize = 100,
-	AgExport_jpeg_quality = 0.6,
+	AgExport_jpeg_limitSize = 10000,
+	AgExport_jpeg_quality = 0.7,
 	AgExport_jpeg_useLimitSize = false,
 	AgExport_markedPresets = "t = {\
 }\
 ",
 	AgExport_metadata_keywordOptions = "flat",
 	AgExport_minimizeEmbeddedMetadata = false,
+	AgExport_missingOriginals_doNotShow = "yes",
 	AgExport_outputSharpeningLevel = 2,
 	AgExport_outputSharpeningMedia = "screen",
-	AgExport_outputSharpeningOn = false,
+	AgExport_outputSharpeningOn = true,
 	AgExport_png_interlaced = false,
 	AgExport_reimportExportedPhoto = false,
-	AgExport_reimport_stackWithOriginal = true,
+	AgExport_reimport_stackWithOriginal = false,
 	AgExport_reimport_stackWithOriginal_position = "below",
 	AgExport_removeFaceMetadata = true,
 	AgExport_removeLocationMetadata = true,
 	AgExport_renamingTokensOn = false,
+	AgExport_selectedPresetId = "1EDDB6BE-5E61-4C10-9526-8C54512E23BA",
 	AgExport_selectedTextFontFamily = "Myriad Web Pro",
 	AgExport_selectedTextFontSize = 12,
-	AgExport_size_doConstrain = false,
+	AgExport_size_doConstrain = true,
 	AgExport_size_doNotEnlarge = false,
-	AgExport_size_maxHeight = 1000,
+	AgExport_size_maxHeight = 1920,
 	AgExport_size_maxWidth = 1000,
 	AgExport_size_megapixels = 5,
 	AgExport_size_percentage = 100,
-	AgExport_size_resizeType = "wh",
-	AgExport_size_resolution = 240,
+	AgExport_size_resizeType = "longEdge",
+	AgExport_size_resolution = 72,
 	AgExport_size_resolutionUnits = "inch",
 	AgExport_size_units = "pixels",
-	AgExport_size_userWantsConstrain = false,
+	AgExport_size_userWantsConstrain = true,
 	AgExport_tiff_compressionMethod = "compressionMethod_None",
 	AgExport_tiff_preserveTransparency = false,
 	AgExport_tokenCustomString = "",
-	AgExport_tokensArchivedToString2 = "{{image_name}}",
+	AgExport_tokens = "{{com.adobe.title}}_by_{{com.adobe.creator}}",
+	AgExport_tokensArchivedToString2 = "{{com.adobe.title}}_by_{{com.adobe.creator}}",
 	AgExport_useWatermark = false,
 	AgExport_watermarking_id = "<simpleCopyrightWatermark>",
 	AgHTemplateBrowserView_expandedFolders_Develop = "s = {\
 	user_toning = true,\
 }\
 ",
-	AgHTemplateBrowserView_newTemplateFrame = AgRect( 770, 533, 1151, 628 ),
+	AgHTemplateBrowserView_expandedFolders_Export = "s = {\
+	instagram = true,\
+	jpg = true,\
+}\
+",
+	AgHTemplateBrowserView_newTemplateFrame = AgRect( 773, 536, 1137, 666 ),
 	AgHTemplateBrowserView_newTemplateFrame_showCmd = 1,
 	AgIdentityPlates_mainDialog_showDetails = true,
+	AgImageFiles_findNearbyMissingImages = true,
 	AgImportCatalogDialog_thumbnailSize = 160,
 	AgImportDialog_destinationFolderPath = "C:\\Users\\johannes\\Pictures",
 	AgImportFromCatalog_initialDirectory = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\template",
-	AgImportFromCatalog_mainDialog = AgRect( 526, 262, 915, 637 ),
+	AgImportFromCatalog_mainDialog = AgRect( 526, 264, 915, 648 ),
 	AgImportFromCatalog_mainDialog_showCmd = 1,
 	AgImportFromCatalog_showPreviewArea = false,
 	AgImport_Import_add_photos_to_collection = false,
@@ -328,6 +402,7 @@ prefs = {
 	AgImport_importServiceProviderTitle = "Files on Disk",
 	AgImport_initialSequenceNumber = 1,
 	AgImport_keywords = "",
+	AgImport_lastImportPath = "C:\\Users\\johannes\\Pictures",
 	AgImport_metadataPresetID = "<none>",
 	AgImport_previewBuildQuality = "bthm",
 	AgImport_previewJPEGQuality = 0.75,
@@ -345,10 +420,20 @@ prefs = {
 	AgImport_tokenShootName = "",
 	AgImport_tokens = "{{date_YYYYMMDD}}-{{image_name}}",
 	AgLibraryDocument_lastSelectedModule = "com.adobe.ag.library",
+	AgLibrary_BackupDoIntegrityCheck = true,
+	["AgLibrary_BackupPathToFolder0C45A8A1-DEBB-4864-A806-CC4B36500299"] = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2019\\Backups",
+	["AgLibrary_BackupPathToFolder1418EDE8-F7F2-4CFA-98C4-B99BE2FB65A3"] = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2015\\Backups",
+	["AgLibrary_BackupPathToFolder21C27188-17F9-4F3C-963B-FF33AA9AF50A"] = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2012\\Backups",
+	["AgLibrary_BackupPathToFolder278F292C-DA72-4590-863F-749C6BA2827B"] = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2010\\Backups",
+	["AgLibrary_BackupPathToFolder5F3DF501-18B3-453B-99B6-1A3B10E054FE"] = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2011\\Backups",
+	["AgLibrary_BackupPathToFolder5FD9AA9B-C1BD-4FAB-9665-FCAE6FCA696C"] = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2018\\Backups",
+	["AgLibrary_BackupPathToFolder88CFCCCC-4182-491D-B820-29B48202C649"] = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2020\\Backups",
+	["AgLibrary_BackupPathToFolderC77278A6-21CD-41ED-855F-DB1173F1EB78"] = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2016\\Backups",
+	["AgLibrary_BackupPathToFolderD1A32B36-A3B8-4B6C-91E7-9F4535079F63"] = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2017\\Backups",
 	AgLibrary_BuildProxiesResults = "ok",
 	AgLibrary_Catalog_AutoWriteXMP_TasksPending = "quit",
 	AgLibrary_QuerierHeight = 200,
-	AgLibrary_QuickDev_color_ExpansionState = 0,
+	AgLibrary_QuickDev_color_ExpansionState = 1,
 	AgLibrary_QuickDev_exposure_ExpansionState = 1,
 	AgLibrary_QuickDev_general_ExpansionState = 0,
 	AgLibrary_autoCompleteInKeywordsField = true,
@@ -364,6 +449,7 @@ prefs = {
 	compare = true,\
 }\
 ",
+	AgLibrary_consentToWriteMetadata = 1,
 	AgLibrary_defaultColumnGenerator_sortDescending_date = false,
 	AgLibrary_defaultGroupType = "none",
 	AgLibrary_defaultSortType = "captureTime",
@@ -380,7 +466,7 @@ prefs = {
 	image_size = true,\
 }\
 ",
-	AgLibrary_faceThumbSize = 120,
+	AgLibrary_faceThumbSize = 68.892506209195,
 	AgLibrary_facesToolsV1 = "tools = {\
 	face_refresh_mode = true,\
 	face_sort = true,\
@@ -418,35 +504,37 @@ prefs = {
 	AgLibrary_histogramPanel_ExpansionState = 1,
 	AgLibrary_images_target = "selectedPhotos",
 	AgLibrary_includeChildTags = true,
-	AgLibrary_infoPanel_Collapsed = true,
+	AgLibrary_infoPanel_Collapsed = false,
 	AgLibrary_infoPanel_ExpansionState = 0,
 	AgLibrary_keywordDisplay = "DisplayKeywordTags",
-	AgLibrary_keywordFilterMode_ExpansionState = 0,
+	AgLibrary_keywordFilterMode_ExpansionState = 1,
 	AgLibrary_keywordFilterShowChildren = false,
 	AgLibrary_keywordsPanel_Collapsed = true,
 	AgLibrary_keywordsPanel_ExpansionState = 0,
-	AgLibrary_keywords_shortcut1title = "Johannes Andersson",
-	AgLibrary_keywords_shortcut2title = "Niklas Kjerstadius",
-	AgLibrary_keywords_shortcut3title = "Benjamin Jönsson",
-	AgLibrary_keywords_shortcut4title = "Martin",
-	AgLibrary_keywords_shortcut5title = "Lysekil",
-	AgLibrary_keywords_shortcut6title = "Isabell Broman",
-	AgLibrary_keywords_shortcut7title = "telefon",
-	AgLibrary_keywords_shortcut8title = "phone",
-	AgLibrary_keywords_shortcut9title = "kodak",
-	["AgLibrary_lastBackupDate1418EDE8-F7F2-4CFA-98C4-B99BE2FB65A3"] = 610714533.45013,
+	AgLibrary_keywords_shortcut1title = "ice climbing",
+	AgLibrary_keywords_shortcut2title = "twerking",
+	AgLibrary_keywords_shortcut3title = "avalanche safety",
+	AgLibrary_keywords_shortcut4title = "snow",
+	AgLibrary_keywords_shortcut5title = "winter",
+	AgLibrary_keywords_shortcut6title = "ice twerk",
+	AgLibrary_keywords_shortcut7title = "backcountry skiing",
+	AgLibrary_keywords_shortcut8title = "skiing",
+	AgLibrary_keywords_shortcut9title = "ski touring",
+	["AgLibrary_lastBackupDate0C45A8A1-DEBB-4864-A806-CC4B36500299"] = 615487576.70889,
+	["AgLibrary_lastBackupDate1418EDE8-F7F2-4CFA-98C4-B99BE2FB65A3"] = 639044939.57075,
 	["AgLibrary_lastBackupDate21C27188-17F9-4F3C-963B-FF33AA9AF50A"] = 610665515.97455,
-	["AgLibrary_lastBackupDate278F292C-DA72-4590-863F-749C6BA2827B"] = 610620563.28772,
+	["AgLibrary_lastBackupDate278F292C-DA72-4590-863F-749C6BA2827B"] = 630864562.49047,
 	["AgLibrary_lastBackupDate29DF6FBF-FF55-46A1-B29E-8731AB95D42C"] = 610617783.20644,
 	["AgLibrary_lastBackupDate564E01C7-8547-4943-85A3-0E9AB603B99A"] = 610724609.77388,
 	["AgLibrary_lastBackupDate589C1601-AF2F-4BCF-AE8D-6F97B6B60266"] = 610714219.44574,
-	["AgLibrary_lastBackupDate5F3DF501-18B3-453B-99B6-1A3B10E054FE"] = 610631726.04526,
+	["AgLibrary_lastBackupDate5F3DF501-18B3-453B-99B6-1A3B10E054FE"] = 616068612.75447,
 	["AgLibrary_lastBackupDate5FD9AA9B-C1BD-4FAB-9665-FCAE6FCA696C"] = 610873860.43098,
-	["AgLibrary_lastBackupDate88CFCCCC-4182-491D-B820-29B48202C649"] = 610724717.66266,
+	["AgLibrary_lastBackupDate7F4F13CD-738B-4F84-8EDC-90DE3DF93A1C"] = 639497318.20892,
+	["AgLibrary_lastBackupDate88CFCCCC-4182-491D-B820-29B48202C649"] = 614783431.80022,
 	["AgLibrary_lastBackupDate90F3768C-431D-4330-B1F5-61466D3A84C0"] = 610616435.39775,
 	["AgLibrary_lastBackupDate942AF684-8150-4524-9D21-BD9DF0F5E867"] = 610620417.90544,
 	["AgLibrary_lastBackupDateC3FB9D8E-3FA6-49B0-88DB-37CEFF145E86"] = 610713827.81919,
-	["AgLibrary_lastBackupDateC77278A6-21CD-41ED-855F-DB1173F1EB78"] = 610665943.79102,
+	["AgLibrary_lastBackupDateC77278A6-21CD-41ED-855F-DB1173F1EB78"] = 616074682.90067,
 	["AgLibrary_lastBackupDateD1A32B36-A3B8-4B6C-91E7-9F4535079F63"] = 610796102.5344,
 	["AgLibrary_lastBackupDateED3E3952-06AD-48EB-8D5F-AD74491684B0"] = 610724324.43001,
 	["AgLibrary_lastBackupDateEEBAFC50-D280-4687-B270-5C31F5043C07"] = 610616530.02231,
@@ -454,13 +542,15 @@ prefs = {
 	AgLibrary_libraryPanel_Collapsed = false,
 	AgLibrary_link2up = true,
 	AgLibrary_lockFilterState = false,
+	AgLibrary_lockGrid = false,
 	AgLibrary_loupeInfo1Text1_v4 = "com.adobe.filenameAndCopyname",
 	AgLibrary_loupeInfo1Text2 = "com.adobe.captureDateTime",
 	AgLibrary_loupeInfo1Text3 = "com.adobe.imageCroppedDimensions",
 	AgLibrary_loupeInfo2Text1_v4 = "com.adobe.filenameAndCopyname",
 	AgLibrary_loupeInfo2Text2 = "com.adobe.exposureAndISO",
 	AgLibrary_loupeInfo2Text3 = "com.adobe.lensSetting",
-	AgLibrary_loupeInfoStyle = "info1",
+	AgLibrary_loupeInfoShowing = true,
+	AgLibrary_loupeInfoStyle = "info2",
 	AgLibrary_loupeTools60 = "tools = {\
 	draw_region = true,\
 	pick = true,\
@@ -468,7 +558,7 @@ prefs = {
 	rotate = true,\
 }\
 ",
-	AgLibrary_loupeZoomInLevel = 1,
+	AgLibrary_loupeZoomInLevel = 0.5,
 	AgLibrary_loupeZoomLevel = "fitToView",
 	AgLibrary_loupeZoomOutLevel = "fitToView",
 	AgLibrary_loupe_target = "activePhoto",
@@ -476,7 +566,7 @@ prefs = {
 	AgLibrary_metadataPanel_Collapsed = false,
 	AgLibrary_metadataPanel_ExpansionState = 0,
 	AgLibrary_minSimilarityThresholdForFaces = 40,
-	AgLibrary_navigatorPanel_ExpansionState = 0,
+	AgLibrary_navigatorPanel_ExpansionState = 1,
 	AgLibrary_notActive_target = "activePhoto",
 	AgLibrary_paintingEnabled = false,
 	AgLibrary_paintingToolWhichType = "keywords",
@@ -502,7 +592,7 @@ prefs = {
 	AgLibrary_showCompactTopLabel = false,
 	AgLibrary_showCompareExtras = true,
 	AgLibrary_showGridTooltips = true,
-	AgLibrary_showLoupeInfo = false,
+	AgLibrary_showLoupeInfo = true,
 	AgLibrary_showLoupeWorkingOverlay = true,
 	AgLibrary_showVisualSearchHitRects = true,
 	AgLibrary_showVisualSearchSimilarityScores = true,
@@ -514,7 +604,7 @@ prefs = {
 }\
 ",
 	AgLibrary_targetPhotoMetadataOnly = false,
-	AgLibrary_thumbSize = 67.859707816092,
+	AgLibrary_thumbSize = 82,
 	AgLibrary_tintGridWithColors = true,
 	AgLibrary_toolbar_revealedState = "normal",
 	AgLibrary_unnamedFaceSortType = "suggestionName",
@@ -526,9 +616,13 @@ prefs = {
 ",
 	AgLibrary_volumeBrowserStatusLight = "freeSpace",
 	AgLibrary_whichView = "images",
-	AgLightsOut_overrideColor = false,
+	AgLightsOut_overrideColor = true,
 	AgLocation_leftPanels_inSoloMode = false,
 	AgLocation_rightPanels_inSoloMode = false,
+	AgMRUPopupList_AgExport_destinationFolderPathPrefix = "s = {\
+	\"D:\\\\Dropbox\\\\Pictures\\\\instagram\\\\_photos\\\\preview\",\
+}\
+",
 	AgMRUPopupList_AgImportDialog_destinationFolderPath = "s = {\
 	\"C:\\\\Users\\\\johannes\\\\Pictures\",\
 }\
@@ -539,15 +633,15 @@ prefs = {
 ",
 	AgMainFramePlacement_maxPosition_x = -1,
 	AgMainFramePlacement_maxPosition_y = -1,
-	AgMainFramePlacement_minPosition_x = -1,
-	AgMainFramePlacement_minPosition_y = -1,
-	AgMainFramePlacement_normalPosition_bottom = 740,
-	AgMainFramePlacement_normalPosition_left = 20,
-	AgMainFramePlacement_normalPosition_right = 1020,
-	AgMainFramePlacement_normalPosition_top = 20,
+	AgMainFramePlacement_minPosition_x = -32000,
+	AgMainFramePlacement_minPosition_y = -32000,
+	AgMainFramePlacement_normalPosition_bottom = 1059,
+	AgMainFramePlacement_normalPosition_left = -1928,
+	AgMainFramePlacement_normalPosition_right = -928,
+	AgMainFramePlacement_normalPosition_top = 339,
 	AgMainFramePlacement_showCmd = 3,
-	AgMainFrame_screenMode = "normal",
-	AgManyErrorsDialog_frame = AgRect( 266, 226, 1006, 547 ),
+	AgMainFrame_screenMode = 0,
+	AgManyErrorsDialog_frame = AgRect( 266, 228, 1006, 549 ),
 	AgManyErrorsDialog_frame_showCmd = 1,
 	AgMultiMonitor_autoResize = false,
 	AgMultiMonitor_blankBackgroundColor = 0,
@@ -564,10 +658,11 @@ prefs = {
 	AgMultiMonitor_slideshowPauseOnIntro = false,
 	AgMultiMonitor_slideshowRepeat = false,
 	AgMultiMonitor_thumbSize = 120,
+	AgMultiMonitor_viewMode = "loupe",
 	AgMultiMonitor_visible = false,
 	AgMultiMonitor_windowFilterBarVisible = false,
 	AgMultiMonitor_windowVisible = false,
-	AgNavigator_extraZoomLevel = 3,
+	AgNavigator_extraZoomLevel = 0.5,
 	AgNavigator_showPhotosOnMouseOver = true,
 	["AgNewCreationsDialog_AgNewCreationsDialog_makeVirtualCopiesForModule_com.adobe.ag.library.collection"] = false,
 	["AgNewCreationsDialog_AgNewCreationsDialog_makeVirtualCopiesForModule_com.adobe.ag.library.group"] = false,
@@ -578,6 +673,8 @@ prefs = {
 	AgPanel_automaticFontSize = true,
 	AgPanel_baseFontSize = "medium",
 	AgPanel_defaultSoloMode = false,
+	AgPointCurve_showAllCurves = false,
+	AgPointCurve_snapToGrid = false,
 	AgPreviewBuilder_jpegQuality = 0.75,
 	AgPreviewBuilder_standardSize = "automatic",
 	AgPreviewCache_discardAfter = "thirty_days",
@@ -585,6 +682,7 @@ prefs = {
 	AgPrint_rightPanels_inSoloMode = false,
 	AgProgressView_visible = false,
 	AgPublish_DNG_compatibilityV2 = 184680448,
+	AgPublish_DNG_compatibilityV3 = 201588736,
 	AgPublish_DNG_compressed = true,
 	AgPublish_DNG_conversionMethod = "preserveRAW",
 	AgPublish_DNG_embedCache = true,
@@ -599,6 +697,7 @@ prefs = {
 	AgPublish_export_destinationPathSuffix = "Untitled Export",
 	AgPublish_export_destinationType = "desktop",
 	AgPublish_export_postProcessing = "doNothing",
+	AgPublish_export_useParentFolder = false,
 	AgPublish_export_useSubfolder = true,
 	AgPublish_export_videoFileHandling = "include",
 	AgPublish_export_videoFormat = "4e49434b-4832-3634-fbfb-fbfbfbfbfbfb",
@@ -656,7 +755,10 @@ prefs = {
 }\
 ",
 	AgSlideshow_leftPanels_inSoloMode = false,
+	AgSlideshow_preparePreviews = true,
 	AgSlideshow_rightPanels_inSoloMode = false,
+	AgSlideshow_showGuides = true,
+	AgSlideshow_whichView = "images",
 	AgSoftProofPreview_destinationGamutWarning = false,
 	AgSoftProofPreview_destinationProfile = "AdobeRGB",
 	AgSoftProofPreview_displayGamutWarning = false,
@@ -717,19 +819,87 @@ prefs = {
 	ShootNameSequence2 = true,\
 }\
 ",
+	AgTemplateBrowserDataModel_copied_WatermarkingPreset = "s = {\
+}\
+",
 	AgTemplateBrowser_showPartiallyCompatiblePresets = true,
 	AgTipsDlg_TurnOffTips = true,
 	AgVanityPlates_panelTerminator = "_default",
+	AgVideoExportPreset_definitions = "AgVideoExportPreset_definitions = {\
+	[\"3f3f3f3f-4450-5820-fbfb-fbfbfbfbfbfb\"] = {\
+		exportToFolder = true,\
+		ext = \"dpx\",\
+		formatGUID = \"3f3f3f3f-4450-5820-fbfb-fbfbfbfbfbfb\",\
+		formatTitle = \"DPX\",\
+		items = {\
+			{\
+				displayName = \"24p Full Range\",\
+				guidance = \"1920 x 1080 24p Full Range (max bit depth).\",\
+				presetPath = \"1920 x 1080 24p Full Range (max bit depth).epr\",\
+				targetInfo = \"1920 x 1080, 24p\",\
+			},\
+			{\
+				displayName = \"25p Full Range\",\
+				guidance = \"1920 x 1080 25p Full Range (max bit depth).\",\
+				presetPath = \"1920 x 1080 25p Full Range (max bit depth).epr\",\
+				targetInfo = \"1920 x 1080, 25p\",\
+			},\
+			{\
+				displayName = \"30p Full Range\",\
+				guidance = \"1920 x 1080 30p Full Range (max bit depth).\",\
+				presetPath = \"1920 x 1080 30p Full Range (max bit depth).epr\",\
+				targetInfo = \"1920 x 1080, 30p\",\
+			},\
+		},\
+		plugInsContributing = {\
+		},\
+	},\
+	[\"4e49434b-4832-3634-fbfb-fbfbfbfbfbfb\"] = {\
+		ext = \"mp4\",\
+		formatGUID = \"4e49434b-4832-3634-fbfb-fbfbfbfbfbfb\",\
+		formatTitle = \"H.264\",\
+		items = {\
+			{\
+				displayName = \"Max\",\
+				guidance = \"As close to source as possible.\",\
+				size = \"max\",\
+			},\
+			{\
+				displayName = \"High\",\
+				guidance = \"High quality, but with a possible reduction in video bit rate.\",\
+				size = \"high\",\
+			},\
+			{\
+				displayName = \"Medium\",\
+				guidance = \"Suitable for web sharing and higher end tablets.\",\
+				size = \"medium\",\
+			},\
+			{\
+				displayName = \"Low\",\
+				guidance = \"Suitable for mobile devices.\",\
+				size = \"low\",\
+			},\
+		},\
+		plugInsContributing = {\
+		},\
+	},\
+}\
+",
+	AgVideoExportPreset_language = "AgVideoExportPreset_language = \"en\"\
+",
 	AgWPG_leftPanels_inSoloMode = false,
 	AgWPG_rightPanels_inSoloMode = false,
+	AgXMPUtils_overwriteSettingsOnDisk = "overwrite",
 	AnalyticsUserSyncPreferenceLogged = true,
+	ColorGrading_HueSat_Expand = false,
+	ColorGrading_HueSat_ExpandedAmount = 0,
 	DevelopLocalized_preset_circularGradient_ExpansionState = 1,
 	DevelopLocalized_preset_gradient_ExpansionState = 1,
 	DevelopLocalized_preset_paint_ExpansionState = 1,
 	DevelopPanels_firstPanelShowing = true,
-	DevelopPanels_firstPanelSize = 263,
+	DevelopPanels_firstPanelSize = 293,
 	DevelopPanels_lastPanelShowing = true,
-	DevelopPanels_lastPanelSize = 263,
+	DevelopPanels_lastPanelSize = 293,
 	DevelopProfileBrowser_ThumbSize = 102,
 	DevelopProfileBrowser_ViewType = "grid",
 	Develop_colorReadOutMode = "rgb",
@@ -744,6 +914,7 @@ prefs = {
 ",
 	Develop_localizedTintPreset1Hue = 0,
 	Develop_localizedTintPreset1Saturation = 0,
+	Export_lastFolderUsedForNewItems = "instagram",
 	Filmstrip_ignoreClicksOnBadges = false,
 	Filmstrip_showAdornments = true,
 	Filmstrip_showBadges = true,
@@ -753,6 +924,7 @@ prefs = {
 	GPUManagerPref = "auto",
 	ImportLoupe_backgroundShade = 0.25,
 	InitialPreferenceLogged = true,
+	LaunchCount = 13,
 	LayoutBook_leftPanels_inSoloMode = false,
 	LayoutBook_rightPanels_inSoloMode = false,
 	LayoutSlideshow_leftPanels_inSoloMode = false,
@@ -761,34 +933,60 @@ prefs = {
 	LibraryPanels_firstPanelShowing = true,
 	LibraryPanels_firstPanelSize = 304,
 	LibraryPanels_lastPanelShowing = true,
-	LibraryPanels_lastPanelSize = 263,
+	LibraryPanels_lastPanelSize = 293,
 	Lightroom_userIdentityPlateEnabled = false,
 	Lightroom_userIdentityPlateMode = "sync_user",
 	LoupeVerticalGestureMode = "flag",
-	LrVersionForPreviousLaunchString = "9.2",
+	LrVersionForPreviousLaunchString = "10.1",
+	MultiMonitorPanels_firstPanelShowing = true,
+	MultiMonitorPanels_lastPanelShowing = true,
 	MultiMonitorPanels_syncPanels = true,
+	ProfileBrowser_ExpandState = "s = {\
+	__Cluster__Adobe__Group__ArtisticPanel_Expand = false,\
+	__Cluster__Adobe__Group__ArtisticPanel_ExpandAmount = 0,\
+	[\"__Cluster__Adobe__Group__B&WPanel_Expand\"] = false,\
+	[\"__Cluster__Adobe__Group__B&WPanel_ExpandAmount\"] = 0,\
+	__Cluster__Adobe__Group__ModernPanel_Expand = false,\
+	__Cluster__Adobe__Group__ModernPanel_ExpandAmount = 0,\
+	__Cluster__Adobe__Group__VintagePanel_Expand = false,\
+	__Cluster__Adobe__Group__VintagePanel_ExpandAmount = 0,\
+	[\"__Cluster____@@InternalCluster@@____Group__Adobe RawPanel_Expand\"] = false,\
+	[\"__Cluster____@@InternalCluster@@____Group__Adobe RawPanel_ExpandAmount\"] = 0,\
+	[\"__Cluster____@@InternalCluster@@____Group__Camera MatchingPanel_Expand\"] = true,\
+	[\"__Cluster____@@InternalCluster@@____Group__Camera MatchingPanel_ExpandAmount\"] = 1,\
+	[\"__Cluster____@@InternalCluster@@____Group__FavoritesPanel_Expand\"] = false,\
+	[\"__Cluster____@@InternalCluster@@____Group__FavoritesPanel_ExpandAmount\"] = 0,\
+}\
+",
 	SelectLibraryDialog_newCatalogDir = "C:\\Users\\johannes\\Desktop\\temp",
 	ShowCollectionFilterBar = true,
 	ShowFolderFilterBar = true,
 	Showed_Sync_Walkthrough = true,
 	TouchWorkspace_autoEnterMode = "ask",
 	TouchWorkspace_autoExitMode = "ask",
+	Trackpad_PermitSpeedSwiping = true,
+	accountType = "type1",
 	buildPreviewParallely = true,
 	collectionPanelSortOrder = "kind",
 	["com.adobe.ag.library_Showed_Walkthroughs"] = true,
+	constrainCropsToOrginalAspectRatio = true,
 	customGPUCPref = false,
 	customGPUDPref = true,
 	defringeColorLoupeSize = 5,
 	defringeColorShowLoupe = true,
 	defringeColorToolSticky = true,
 	deleteSyncedCollection_leavePhotosSynced = true,
-	doNotShowPrompts = "AgLibrary_relaunchLightroomForNewLibrary,AgLibrary_Catalog_AutoWriteXMP_TasksPending,AgLibrary_BuildProxiesResults,exitDialog,",
+	doNotShowPrompts = "AgExport_missingOriginals_doNotShow,AgXMPUtils_overwriteSettingsOnDisk,AgLibrary_consentToWriteMetadata,lrupdate_doNotShowKeyFor_9.2,AgLibrary_relaunchLightroomForNewLibrary,AgLibrary_Catalog_AutoWriteXMP_TasksPending,AgLibrary_BuildProxiesResults,exitDialog,",
 	enablePostCropVignetteEffectDuringCrop = true,
 	enablePresetPreviewsInLoupe = true,
 	exitDialog = "exit",
+	exportPresets_Enabled = true,
+	export_useParentFolder = false,
 	externalEditingFormat = "TIFF_LZW_8_sRGB",
+	fineAdjustmentForLocalHue = false,
 	firstLaunchHasRun30 = true,
 	guidedUprightSamplerLoupeSize = 61,
+	isLCOnGPU3 = true,
 	label1 = "Red",
 	label2 = "Yellow",
 	label3 = "Green",
@@ -806,88 +1004,83 @@ prefs = {
 	labelf5 = "Purple",
 	lastToneCurveChannelSelection = 0,
 	lensCorrectionPanel = "automatic",
-	libraryToLoad20 = "D:\\Dropbox\\Pictures\\lightroom\\catalogs\\2012\\lr_classic_2012_v005.lrcat",
-	mainWindowHeight = 1216,
+	libraryToLoad20 = "D:\\Dropbox\\pictures\\lightroom\\catalogs\\2021\\lr_classic_2021_v001\\lr_classic_2021_v001.lrcat",
+	["lrupdate_doNotShowKeyFor_9.2"] = "ok",
+	mainWindowHeight = 1176,
 	mainWindowWidth = 1936,
-	mainWindowX = -8,
+	mainWindowX = -1928,
 	mainWindowY = -8,
+	memoryCardDetectionAction = "ImportBehavior_ShowImportDialog",
 	noAutomaticallyCheckUpdates = false,
 	onePixelFudge = true,
 	ozEndPointBaseUrl = "https://photo-api.adobe.io",
 	ozEndPoints = "{\"base\":\"https://photo-api.adobe.io\",\"links\":{\"/rels/version\":{\"href\":\"/v1.0/version\"},\"/rels/image_download\":{\"base\":\"https://photo-api.adobe.io\"},\"/rels/video_download\":{\"base\":\"https://photo-api.adobe.io\"},\"/rels/catalogs\":{\"href\":\"/v1.0/catalogs\"},\"/rels/lr_catalogs\":{\"href\":\"/v1.0/catalogs?subtype=lightroom%3BX-lightroom\"},\"/rels/account\":{\"href\":\"/v1.0/accounts/dd4633a242d052f958d5322b4d760694\"},\"/rels/image_upload\":{\"base\":\"https://photo-api.adobe.io\"},\"/rels/video_upload\":{\"base\":\"https://photo-api.adobe.io\"}}}",
-	ozEndPointsLastSetTime = 611013951.58099,
+	ozEndPointsLastSetTime = 639470593.86602,
 	photoBinSize = 150,
 	photoshopEditingFormat = "TIFF_ZIP_16_ProPhotoRGB",
+	["publish.com.adobe.ag.export.file.536243.expanded"] = true,
 	recentLibraries20 = "recentLibraries = {\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2012\\\\lr_classic_2012_v005.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2013\\\\lr_classic_2013_v006.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2014\\\\lr_classic_2014_v005.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2015\\\\lr_classic_2015_v008.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2016\\\\lightroom_2016_v003.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2019\\\\lr_classic_2019_v002.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2018\\\\lr_classic_2018_v002.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2017\\\\lightroom_2017_v004.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\template\\\\template.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2007\\\\lightroom_2007_v003.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2006\\\\lr_classic_2006_v001.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2020\\\\lr_classic_2020_v001.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2011\\\\lr_classic_2011_v005.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2010\\\\lr_classic_2010_v003.lrcat\",\
+	\"D:\\\\Dropbox\\\\pictures\\\\lightroom\\\\catalogs\\\\2021\\\\lr_classic_2021_v001\\\\lr_classic_2021_v001.lrcat\",\
+	\"D:\\\\Dropbox\\\\pictures\\\\lightroom\\\\catalogs\\\\2018\\\\lr_classic_2018_v003.lrcat\",\
+	\"D:\\\\Dropbox\\\\pictures\\\\lightroom\\\\catalogs\\\\2015\\\\lr_classic_2015_v009.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2015\\\\lr_classic_2015_v009.lrcat\",\
 }\
 ",
 	recentLibraries20_missing = "recentMissingLibraries = {\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2017\\\\lightroom_2017_v003-2.lrcat\",\
-	\"C:\\\\Users\\\\johannes\\\\Desktop\\\\temp\\\\template_2\\\\template.lrcat\",\
-	\"C:\\\\Users\\\\johannes\\\\Desktop\\\\temp\\\\template_smartCollections\\\\template_smartCollections.lrcat\",\
-	\"C:\\\\Users\\\\johannes\\\\Desktop\\\\temp\\\\template_2\\\\template_2.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2016\\\\lightroom_2016_v002-2.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2009\\\\lr_classic_2009_v002-2.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2010\\\\lr_classic_2010_v002-2.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2007\\\\lightroom_2007_v002-2.lrcat\",\
-	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2008\\\\lr_classic_2008_v002-2.lrcat\",\
+	\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2021/lr_classic_2021_v001/lr_classic_2021_v001.lrcat\",\
+	\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2020/lr_classic_2020_v003.lrcat\",\
+	\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2018/lr_classic_2018_v003.lrcat\",\
+	\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2019/lr_classic_2019_v003.lrcat\",\
+	\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2020/lr_classic_2020_v003_01.lrcat\",\
+	\"/Users/johannes/Dropbox/pictures/lightroom/catalogs/2017/lightroom_2017_v005.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2020/lr_classic_2020_v002.lrcat\",\
+	\"/Users/johannes/Dropbox/projects/2020/000124_kokkaffe/work/kokkaffe_edit_v001/kokkaffe_edit_v001.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2019/lr_classic_2019_v002.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2017/lightroom_2017_v004.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2018/lr_classic_2018_v002.lrcat\",\
+	\"/Users/johannes/Dropbox/Pictures/lightroom/catalogs/2015/lr_classic_2015_v008.lrcat\",\
+	\"D:\\\\Dropbox\\\\pictures\\\\lightroom\\\\catalogs\\\\2018\\\\lr_classic_2018_v003.lrcat\",\
+	\"D:\\\\Dropbox\\\\pictures\\\\lightroom\\\\catalogs\\\\2015\\\\lr_classic_2015_v009.lrcat\",\
+	\"D:\\\\Dropbox\\\\Pictures\\\\lightroom\\\\catalogs\\\\2015\\\\lr_classic_2015_v009.lrcat\",\
 }\
 ",
 	recentLibraryBehavior20 = "UseMostRecentLibrary",
 	["sdk_com.adobe.lightroom.export.facebook"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1589268178,\
+		localOSTime = 1617777763,\
 		locale = \"en_us\",\
-		message_body = \"On August 1st, 2018 Facebook stopped allowing applications like Lightroom Classic CC to post photos to your timeline.  You will still temporarily have access to your published Facebook collections.  Please create a copy of these collections in your personal collections repository. \\r\\\
-\\r\\\
-For more details, see suggested workaround in www.adobe.com/go/facebook-sharing-error.\",\
-		message_title = \"Facebook No Longer Allows Sharing from Desktop Applications\",\
-		plugin_version = \"9.2.1.202004070813-7699d98a\",\
-		status = \"info\",\
-		timestamp = \"2018-08-17T07:41:31Z\",\
+		plugin_version = \"10.1.0.202012012023-e92d50bb\",\
+		status = \"ok\",\
+		timestamp = \"2021-04-07T06:42:37+00:00\",\
 	},\
 }\
 ",
 	["sdk_com.adobe.lightroom.export.flickr"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1589268179,\
+		localOSTime = 1617777786,\
 		locale = \"en_us\",\
-		plugin_version = \"9.2.1.202004070813-7699d98a\",\
+		plugin_version = \"10.1.0.202012012023-e92d50bb\",\
 		status = \"ok\",\
-		timestamp = \"2020-05-12T07:22:58+00:00\",\
+		timestamp = \"2021-04-07T06:42:46+00:00\",\
 	},\
 }\
 ",
 	["sdk_com.adobe.lightroom.export.stock"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1589268191,\
+		localOSTime = 1617777792,\
 		locale = \"en_us\",\
-		plugin_version = \"9.2.1.202004070813-7699d98a\",\
+		plugin_version = \"10.1.0.202012012023-e92d50bb\",\
 		status = \"ok\",\
-		timestamp = \"2020-05-12T07:22:58+00:00\",\
+		timestamp = \"2021-04-07T06:43:09+00:00\",\
 	},\
 }\
 ",
 	["sdk_com.adobe.lightroom.google-map"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1589321159,\
+		localOSTime = 1617777794,\
 		locale = \"en_us\",\
 		status = \"ok\",\
-		timestamp = \"2020-05-12T22:05:59+00:00\",\
+		timestamp = \"2021-04-07T06:43:14+00:00\",\
 	},\
 }\
 ",
@@ -898,22 +1091,21 @@ For more details, see suggested workaround in www.adobe.com/go/facebook-sharing-
 ",
 	sdk_lrupdate = "prefs = {\
 	KillSwitchResponse = {\
-		link = \"win7\",\
-		localOSTime = 1588922907,\
+		link = \"9.2\",\
+		localOSTime = 1617351463,\
 		locale = \"en_us\",\
-		message_body = \"By June 2020, we will end all video playback support for PCs with Windows 7. This will impact import and playback of new and existing videos, as well as the Slideshow module. \\r\\\
-\\r\\\
-For more details and recommendations to plan ahead, see https://www.adobe.com/go/lr_win7_support\",\
-		message_title = \"Video Playback Support in Windows 7\",\
+		message_body = \"The update provides bug fixes and support for newly released cameras and lenses. Update to the latest version by selecting Help > Updates.\",\
+		message_title = \"New update available for Lightroom Classic\",\
 		status = \"info\",\
-		timestamp = \"2020-01-30T09:31:36Z\",\
+		timestamp = \"2020-04-21T05:18:49Z\",\
 	},\
 }\
 ",
 	shouldShowWhatsNew = true,
 	showPublishServiceIcons = true,
+	trackingFlag = "Opt-out",
 	useAutoBahn = true,
-	useGPUCompute = false,
+	useGPUCompute = true,
 	userSetScreen = 1,
 	whiteBalanceLoupeSize = 5,
 	whiteBalanceShowLoupe = true,

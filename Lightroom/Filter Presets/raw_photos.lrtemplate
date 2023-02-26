@@ -1,0 +1,48 @@
+s = {
+	id = "BB14A8FF-ECD5-4E56-9E4D-91BB4333819A",
+	internalName = "raw_photos",
+	title = "raw_photos",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = false,
+		columnBrowserDesc = {
+			{
+				criteria = "dateHierarchy",
+			},
+			{
+				criteria = "camera",
+			},
+			{
+				criteria = "lens",
+			},
+			{
+				criteria = "label",
+			},
+		},
+		customLabel = false,
+		edit = "<nil>",
+		filtersActive = true,
+		gpsLocation = false,
+		gpsLocationNELatitude = "<nil>",
+		gpsLocationNELongitude = "<nil>",
+		gpsLocationSWLatitude = "<nil>",
+		gpsLocationSWLongitude = "<nil>",
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = 0,
+		noLabel = false,
+		pick = "<nil>",
+		ratingOp = ">=",
+		searchOp = "any",
+		searchString = "arw cr2 dng cr3",
+		searchStringActive = true,
+		searchTarget = "filename",
+		usage = "<nil>",
+		whichCopies = "masterImages",
+	},
+	version = 0,
+}
