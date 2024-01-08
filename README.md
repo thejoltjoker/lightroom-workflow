@@ -51,7 +51,7 @@ https://github.com/thejoltjoker/lightroom-sync
     - [Export Presets](#export-presets)
     - [Filename Templates](#filename-templates)
     - [Export Actions](#export-actions)
-      - [create_contact_sheet](#create_contact_sheet)
+      - [create\_contact\_sheet](#create_contact_sheet)
   - [Keywords 📋](#keywords-)
     - [Swedish birds 🦆](#swedish-birds-)
     - [Svenska Tätorter 🏙](#svenska-tätorter-)
@@ -301,16 +301,19 @@ One main publish service for the catalog in output folder. If main year catalog 
 3. Apply keyword to all images from shoot.
 4. Use ratings and color labels to decide which ones to publish.
 
+>**Note**: I've created a plugin to automate this process.
+>[Download here.](https://github.com/thejoltjoker/lightroom-power-collection)
+
 ## Metadata
 
 ### People
 
-Organize all people keywords into a top keyword `person`, then `man` and `woman`
+Organize all people keywords into a top keyword `person`, then `man`, `woman` or `other`.
 
 ### Keywords
 
 Special keywords are:
 
 - \_portfolio
-- \_collections
-  - _collection_name_
+- \_collection
+  - _collection_name
